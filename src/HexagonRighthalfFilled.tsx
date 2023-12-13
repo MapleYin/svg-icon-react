@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HexagonRighthalfFilled({
+export function HexagonRighthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

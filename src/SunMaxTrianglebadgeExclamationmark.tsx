@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SunMaxTrianglebadgeExclamationmark({
+export function SunMaxTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

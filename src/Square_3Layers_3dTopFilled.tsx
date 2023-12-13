@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Square_3Layers_3dTopFilled({
+export function Square_3Layers_3dTopFilled({
   className = 'w-6',
   color = '#000000',
 }: {

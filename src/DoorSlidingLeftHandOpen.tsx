@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DoorSlidingLeftHandOpen({
+export function DoorSlidingLeftHandOpen({
   className = 'w-6',
   color = '#000000',
 }: {

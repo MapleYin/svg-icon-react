@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareFillTextGrid_1x2({
+export function SquareFillTextGrid_1x2({
   className = 'w-6',
   color = '#000000',
 }: {

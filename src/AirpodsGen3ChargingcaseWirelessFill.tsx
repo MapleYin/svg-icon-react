@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AirpodsGen3ChargingcaseWirelessFill({
+export function AirpodsGen3ChargingcaseWirelessFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DesktopcomputerTrianglebadgeExclamationmark({
+export function DesktopcomputerTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

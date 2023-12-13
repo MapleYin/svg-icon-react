@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowtriangleForwardFill({
+export function ArrowtriangleForwardFill({
   className = 'w-6',
   color = '#000000',
 }: {

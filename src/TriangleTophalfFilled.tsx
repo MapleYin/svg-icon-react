@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TriangleTophalfFilled({
+export function TriangleTophalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

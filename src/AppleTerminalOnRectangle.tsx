@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AppleTerminalOnRectangle({
+export function AppleTerminalOnRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

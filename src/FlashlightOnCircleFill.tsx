@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlashlightOnCircleFill({
+export function FlashlightOnCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

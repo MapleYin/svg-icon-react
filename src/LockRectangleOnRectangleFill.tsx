@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LockRectangleOnRectangleFill({
+export function LockRectangleOnRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

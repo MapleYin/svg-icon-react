@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AccessibilityBadgeArrowUpRight({
+export function AccessibilityBadgeArrowUpRight({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TruckPickupSideArrowtriangleUpArrowtriangleDown({
+export function TruckPickupSideArrowtriangleUpArrowtriangleDown({
   className = 'w-6',
   color = '#000000',
 }: {

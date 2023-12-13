@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Building_2CropCircleFill({
+export function Building_2CropCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

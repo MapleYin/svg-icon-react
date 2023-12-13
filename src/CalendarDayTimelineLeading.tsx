@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CalendarDayTimelineLeading({
+export function CalendarDayTimelineLeading({
   className = 'w-6',
   color = '#000000',
 }: {

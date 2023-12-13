@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleStackBadgePersonCrop({
+export function RectangleStackBadgePersonCrop({
   className = 'w-6',
   color = '#000000',
 }: {

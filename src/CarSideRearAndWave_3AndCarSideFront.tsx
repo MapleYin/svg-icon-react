@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarSideRearAndWave_3AndCarSideFront({
+export function CarSideRearAndWave_3AndCarSideFront({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function QuestionmarkFolderFill({
+export function QuestionmarkFolderFill({
   className = 'w-6',
   color = '#000000',
 }: {

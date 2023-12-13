@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowDownToLineCompact({
+export function ArrowDownToLineCompact({
   className = 'w-6',
   color = '#000000',
 }: {

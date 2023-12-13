@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HomepodminiAndAppletvFill({
+export function HomepodminiAndAppletvFill({
   className = 'w-6',
   color = '#000000',
 }: {

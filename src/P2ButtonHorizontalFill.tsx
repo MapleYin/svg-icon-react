@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function P2ButtonHorizontalFill({
+export function P2ButtonHorizontalFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSkiingCrosscountry({
+export function FigureSkiingCrosscountry({
   className = 'w-6',
   color = '#000000',
 }: {

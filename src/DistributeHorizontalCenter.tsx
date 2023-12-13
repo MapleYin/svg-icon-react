@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DistributeHorizontalCenter({
+export function DistributeHorizontalCenter({
   className = 'w-6',
   color = '#000000',
 }: {

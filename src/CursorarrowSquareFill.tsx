@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CursorarrowSquareFill({
+export function CursorarrowSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

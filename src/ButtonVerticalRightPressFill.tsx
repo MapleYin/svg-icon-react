@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonVerticalRightPressFill({
+export function ButtonVerticalRightPressFill({
   className = 'w-6',
   color = '#000000',
 }: {

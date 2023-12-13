@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LockRectangleStackFill({
+export function LockRectangleStackFill({
   className = 'w-6',
   color = '#000000',
 }: {

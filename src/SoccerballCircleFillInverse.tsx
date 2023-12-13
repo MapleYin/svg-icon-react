@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SoccerballCircleFillInverse({
+export function SoccerballCircleFillInverse({
   className = 'w-6',
   color = '#000000',
 }: {

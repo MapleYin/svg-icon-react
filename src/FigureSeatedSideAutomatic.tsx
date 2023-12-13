@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSeatedSideAutomatic({
+export function FigureSeatedSideAutomatic({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ColoncurrencysignArrowCirclepath({
+export function ColoncurrencysignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureChildCircleFill({
+export function FigureChildCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

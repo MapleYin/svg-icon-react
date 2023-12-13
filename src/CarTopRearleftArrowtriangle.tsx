@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopRearleftArrowtriangle({
+export function CarTopRearleftArrowtriangle({
   className = 'w-6',
   color = '#000000',
 }: {

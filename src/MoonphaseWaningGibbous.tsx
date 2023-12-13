@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MoonphaseWaningGibbous({
+export function MoonphaseWaningGibbous({
   className = 'w-6',
   color = '#000000',
 }: {

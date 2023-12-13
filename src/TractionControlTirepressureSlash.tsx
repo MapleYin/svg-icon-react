@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TractionControlTirepressureSlash({
+export function TractionControlTirepressureSlash({
   className = 'w-6',
   color = '#000000',
 }: {

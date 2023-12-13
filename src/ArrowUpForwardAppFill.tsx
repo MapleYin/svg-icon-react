@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpForwardAppFill({
+export function ArrowUpForwardAppFill({
   className = 'w-6',
   color = '#000000',
 }: {

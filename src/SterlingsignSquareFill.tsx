@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SterlingsignSquareFill({
+export function SterlingsignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AirpodsproChargingcaseWirelessRadiowavesLeftAndRight({
+export function AirpodsproChargingcaseWirelessRadiowavesLeftAndRight({
   className = 'w-6',
   color = '#000000',
 }: {

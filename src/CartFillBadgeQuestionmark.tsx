@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CartFillBadgeQuestionmark({
+export function CartFillBadgeQuestionmark({
   className = 'w-6',
   color = '#000000',
 }: {

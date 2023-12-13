@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpForwardBottomleadingRectangle({
+export function ArrowUpForwardBottomleadingRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HeadlightHighBeamFill({
+export function HeadlightHighBeamFill({
   className = 'w-6',
   color = '#000000',
 }: {

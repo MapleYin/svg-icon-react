@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SwitchProgrammableFill({
+export function SwitchProgrammableFill({
   className = 'w-6',
   color = '#000000',
 }: {

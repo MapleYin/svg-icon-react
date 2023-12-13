@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SensorTagRadiowavesForwardFill({
+export function SensorTagRadiowavesForwardFill({
   className = 'w-6',
   color = '#000000',
 }: {

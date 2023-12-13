@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BeatsStudiobudsplusLeft({
+export function BeatsStudiobudsplusLeft({
   className = 'w-6',
   color = '#000000',
 }: {

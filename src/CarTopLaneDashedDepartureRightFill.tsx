@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopLaneDashedDepartureRightFill({
+export function CarTopLaneDashedDepartureRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

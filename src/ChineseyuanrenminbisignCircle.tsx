@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChineseyuanrenminbisignCircle({
+export function ChineseyuanrenminbisignCircle({
   className = 'w-6',
   color = '#000000',
 }: {

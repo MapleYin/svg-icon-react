@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SliderHorizontalBelowSunMax({
+export function SliderHorizontalBelowSunMax({
   className = 'w-6',
   color = '#000000',
 }: {

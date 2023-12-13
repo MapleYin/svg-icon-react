@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TractionControlTirepressure({
+export function TractionControlTirepressure({
   className = 'w-6',
   color = '#000000',
 }: {

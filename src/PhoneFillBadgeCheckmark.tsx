@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PhoneFillBadgeCheckmark({
+export function PhoneFillBadgeCheckmark({
   className = 'w-6',
   color = '#000000',
 }: {

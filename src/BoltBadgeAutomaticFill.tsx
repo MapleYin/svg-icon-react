@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BoltBadgeAutomaticFill({
+export function BoltBadgeAutomaticFill({
   className = 'w-6',
   color = '#000000',
 }: {

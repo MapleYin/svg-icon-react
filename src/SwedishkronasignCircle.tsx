@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SwedishkronasignCircle({
+export function SwedishkronasignCircle({
   className = 'w-6',
   color = '#000000',
 }: {

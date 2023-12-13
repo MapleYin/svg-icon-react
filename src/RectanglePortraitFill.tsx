@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitFill({
+export function RectanglePortraitFill({
   className = 'w-6',
   color = '#000000',
 }: {

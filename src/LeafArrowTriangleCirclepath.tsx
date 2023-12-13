@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LeafArrowTriangleCirclepath({
+export function LeafArrowTriangleCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronBackwardToLine({
+export function ChevronBackwardToLine({
   className = 'w-6',
   color = '#000000',
 }: {

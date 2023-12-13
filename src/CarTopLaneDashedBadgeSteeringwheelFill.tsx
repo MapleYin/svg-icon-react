@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopLaneDashedBadgeSteeringwheelFill({
+export function CarTopLaneDashedBadgeSteeringwheelFill({
   className = 'w-6',
   color = '#000000',
 }: {

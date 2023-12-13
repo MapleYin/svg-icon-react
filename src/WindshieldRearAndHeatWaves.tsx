@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WindshieldRearAndHeatWaves({
+export function WindshieldRearAndHeatWaves({
   className = 'w-6',
   color = '#000000',
 }: {

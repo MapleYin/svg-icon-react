@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleGrid_2x1LeftFilled({
+export function CircleGrid_2x1LeftFilled({
   className = 'w-6',
   color = '#000000',
 }: {

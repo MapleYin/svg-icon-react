@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SwedishkronasignArrowCirclepath({
+export function SwedishkronasignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

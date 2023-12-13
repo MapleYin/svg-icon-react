@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChineseyuanrenminbisignArrowCirclepath({
+export function ChineseyuanrenminbisignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

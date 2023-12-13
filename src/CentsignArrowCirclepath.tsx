@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CentsignArrowCirclepath({
+export function CentsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

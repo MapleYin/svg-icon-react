@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PhotoBadgeCheckmarkFill({
+export function PhotoBadgeCheckmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

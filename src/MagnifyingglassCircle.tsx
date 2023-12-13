@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MagnifyingglassCircle({
+export function MagnifyingglassCircle({
   className = 'w-6',
   color = '#000000',
 }: {

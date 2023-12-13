@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureChildAndLockFill({
+export function FigureChildAndLockFill({
   className = 'w-6',
   color = '#000000',
 }: {

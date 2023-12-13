@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PointBottomleftForwardToPointToprightScurvepath({
+export function PointBottomleftForwardToPointToprightScurvepath({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CheckmarkRectanglePortrait({
+export function CheckmarkRectanglePortrait({
   className = 'w-6',
   color = '#000000',
 }: {

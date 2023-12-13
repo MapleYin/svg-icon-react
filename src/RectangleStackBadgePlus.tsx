@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleStackBadgePlus({
+export function RectangleStackBadgePlus({
   className = 'w-6',
   color = '#000000',
 }: {

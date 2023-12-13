@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ZrButtonRoundedtopHorizontal({
+export function ZrButtonRoundedtopHorizontal({
   className = 'w-6',
   color = '#000000',
 }: {

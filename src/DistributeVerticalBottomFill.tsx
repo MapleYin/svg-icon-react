@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DistributeVerticalBottomFill({
+export function DistributeVerticalBottomFill({
   className = 'w-6',
   color = '#000000',
 }: {

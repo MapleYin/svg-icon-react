@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowTriangleCapsulepath({
+export function ArrowTriangleCapsulepath({
   className = 'w-6',
   color = '#000000',
 }: {

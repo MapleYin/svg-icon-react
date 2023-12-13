@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WindshieldFrontAndWiper({
+export function WindshieldFrontAndWiper({
   className = 'w-6',
   color = '#000000',
 }: {

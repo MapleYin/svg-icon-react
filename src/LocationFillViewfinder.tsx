@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LocationFillViewfinder({
+export function LocationFillViewfinder({
   className = 'w-6',
   color = '#000000',
 }: {

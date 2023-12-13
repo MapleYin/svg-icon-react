@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WindshieldFrontAndSpray({
+export function WindshieldFrontAndSpray({
   className = 'w-6',
   color = '#000000',
 }: {

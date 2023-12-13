@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DistributeVerticalTopFill({
+export function DistributeVerticalTopFill({
   className = 'w-6',
   color = '#000000',
 }: {

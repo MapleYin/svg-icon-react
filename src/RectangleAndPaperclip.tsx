@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleAndPaperclip({
+export function RectangleAndPaperclip({
   className = 'w-6',
   color = '#000000',
 }: {

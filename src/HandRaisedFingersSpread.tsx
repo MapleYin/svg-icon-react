@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HandRaisedFingersSpread({
+export function HandRaisedFingersSpread({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Person_2CropSquareStack({
+export function Person_2CropSquareStack({
   className = 'w-6',
   color = '#000000',
 }: {

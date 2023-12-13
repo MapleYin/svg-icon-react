@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareAndArrowUpOnSquareFill({
+export function SquareAndArrowUpOnSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

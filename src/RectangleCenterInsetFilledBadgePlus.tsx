@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleCenterInsetFilledBadgePlus({
+export function RectangleCenterInsetFilledBadgePlus({
   className = 'w-6',
   color = '#000000',
 }: {

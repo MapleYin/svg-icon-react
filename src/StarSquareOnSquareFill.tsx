@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function StarSquareOnSquareFill({
+export function StarSquareOnSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

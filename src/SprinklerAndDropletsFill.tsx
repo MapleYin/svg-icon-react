@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SprinklerAndDropletsFill({
+export function SprinklerAndDropletsFill({
   className = 'w-6',
   color = '#000000',
 }: {

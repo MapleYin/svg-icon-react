@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareAndPencilCircleFill({
+export function SquareAndPencilCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

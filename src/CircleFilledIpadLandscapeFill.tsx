@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleFilledIpadLandscapeFill({
+export function CircleFilledIpadLandscapeFill({
   className = 'w-6',
   color = '#000000',
 }: {

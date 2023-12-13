@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DistributeHorizontalRightFill({
+export function DistributeHorizontalRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleStackBadgePlayFill({
+export function RectangleStackBadgePlayFill({
   className = 'w-6',
   color = '#000000',
 }: {

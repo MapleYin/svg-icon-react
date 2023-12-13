@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleBadgeQuestionmarkFill({
+export function CircleBadgeQuestionmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

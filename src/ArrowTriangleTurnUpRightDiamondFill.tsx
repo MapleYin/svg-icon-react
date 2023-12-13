@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowTriangleTurnUpRightDiamondFill({
+export function ArrowTriangleTurnUpRightDiamondFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DigitalcrownArrowCounterclockwise({
+export function DigitalcrownArrowCounterclockwise({
   className = 'w-6',
   color = '#000000',
 }: {

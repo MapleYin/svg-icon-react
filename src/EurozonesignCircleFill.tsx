@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EurozonesignCircleFill({
+export function EurozonesignCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

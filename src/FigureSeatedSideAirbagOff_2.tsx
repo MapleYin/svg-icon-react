@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSeatedSideAirbagOff_2({
+export function FigureSeatedSideAirbagOff_2({
   className = 'w-6',
   color = '#000000',
 }: {

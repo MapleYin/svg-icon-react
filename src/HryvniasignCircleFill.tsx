@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HryvniasignCircleFill({
+export function HryvniasignCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

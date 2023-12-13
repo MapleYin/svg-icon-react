@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DoorGarageClosedTrianglebadgeExclamationmark({
+export function DoorGarageClosedTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

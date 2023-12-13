@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpAndDownRighttriangleUpRighttriangleDownFill({
+export function ArrowUpAndDownRighttriangleUpRighttriangleDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

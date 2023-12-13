@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function NairasignArrowCirclepath({
+export function NairasignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

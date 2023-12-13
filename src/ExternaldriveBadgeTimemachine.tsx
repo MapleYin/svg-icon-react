@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExternaldriveBadgeTimemachine({
+export function ExternaldriveBadgeTimemachine({
   className = 'w-6',
   color = '#000000',
 }: {

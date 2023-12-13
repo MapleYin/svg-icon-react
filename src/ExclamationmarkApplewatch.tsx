@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkApplewatch({
+export function ExclamationmarkApplewatch({
   className = 'w-6',
   color = '#000000',
 }: {

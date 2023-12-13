@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DockArrowDownRectangle({
+export function DockArrowDownRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TruckPickupSideAirFresh({
+export function TruckPickupSideAirFresh({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DotCircleAndHandPointUpLeftFill({
+export function DotCircleAndHandPointUpLeftFill({
   className = 'w-6',
   color = '#000000',
 }: {

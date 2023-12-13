@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TrapezoidAndLineHorizontalFill({
+export function TrapezoidAndLineHorizontalFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleCenterInsetFilled({
+export function RectangleCenterInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

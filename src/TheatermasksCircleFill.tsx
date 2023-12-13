@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TheatermasksCircleFill({
+export function TheatermasksCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

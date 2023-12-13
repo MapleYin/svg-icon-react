@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CameraBadgeEllipsisFill({
+export function CameraBadgeEllipsisFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSeatedSeatbeltAndAirbagOff({
+export function FigureSeatedSeatbeltAndAirbagOff({
   className = 'w-6',
   color = '#000000',
 }: {

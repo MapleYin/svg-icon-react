@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopRadiowavesRearRightBadgeExclamationmarkFill({
+export function CarTopRadiowavesRearRightBadgeExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

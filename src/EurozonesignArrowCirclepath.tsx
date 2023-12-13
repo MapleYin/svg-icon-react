@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EurozonesignArrowCirclepath({
+export function EurozonesignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

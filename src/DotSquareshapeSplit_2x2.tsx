@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DotSquareshapeSplit_2x2({
+export function DotSquareshapeSplit_2x2({
   className = 'w-6',
   color = '#000000',
 }: {

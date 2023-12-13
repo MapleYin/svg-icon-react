@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HeatElementWindshield({
+export function HeatElementWindshield({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function XmarkRectanglePortraitFill({
+export function XmarkRectanglePortraitFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareshapeSplit_2x2Dotted({
+export function SquareshapeSplit_2x2Dotted({
   className = 'w-6',
   color = '#000000',
 }: {

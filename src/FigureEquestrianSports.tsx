@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureEquestrianSports({
+export function FigureEquestrianSports({
   className = 'w-6',
   color = '#000000',
 }: {

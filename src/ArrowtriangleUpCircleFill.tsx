@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowtriangleUpCircleFill({
+export function ArrowtriangleUpCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

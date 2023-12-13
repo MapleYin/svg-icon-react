@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SensorTagRadiowavesForward({
+export function SensorTagRadiowavesForward({
   className = 'w-6',
   color = '#000000',
 }: {

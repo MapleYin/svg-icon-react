@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GlobeCentralSouthAsiaFill({
+export function GlobeCentralSouthAsiaFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ShippingboxAndArrowBackward({
+export function ShippingboxAndArrowBackward({
   className = 'w-6',
   color = '#000000',
 }: {

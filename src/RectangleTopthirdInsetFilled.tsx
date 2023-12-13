@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleTopthirdInsetFilled({
+export function RectangleTopthirdInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

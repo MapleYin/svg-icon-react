@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SuvSideAndExclamationmarkFill({
+export function SuvSideAndExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

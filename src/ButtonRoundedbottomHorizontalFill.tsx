@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonRoundedbottomHorizontalFill({
+export function ButtonRoundedbottomHorizontalFill({
   className = 'w-6',
   color = '#000000',
 }: {

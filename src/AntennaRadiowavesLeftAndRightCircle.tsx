@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AntennaRadiowavesLeftAndRightCircle({
+export function AntennaRadiowavesLeftAndRightCircle({
   className = 'w-6',
   color = '#000000',
 }: {

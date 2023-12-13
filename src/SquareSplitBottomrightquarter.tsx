@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareSplitBottomrightquarter({
+export function SquareSplitBottomrightquarter({
   className = 'w-6',
   color = '#000000',
 }: {

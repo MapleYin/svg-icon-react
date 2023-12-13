@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PointTopleftDownToPointBottomrightCurvepath({
+export function PointTopleftDownToPointBottomrightCurvepath({
   className = 'w-6',
   color = '#000000',
 }: {

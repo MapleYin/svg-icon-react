@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HryvniasignArrowCirclepath({
+export function HryvniasignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

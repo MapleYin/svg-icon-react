@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonAndBackgroundDotted({
+export function PersonAndBackgroundDotted({
   className = 'w-6',
   color = '#000000',
 }: {

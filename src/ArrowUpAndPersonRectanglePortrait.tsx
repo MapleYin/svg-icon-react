@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpAndPersonRectanglePortrait({
+export function ArrowUpAndPersonRectanglePortrait({
   className = 'w-6',
   color = '#000000',
 }: {

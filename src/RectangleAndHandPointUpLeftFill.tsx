@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleAndHandPointUpLeftFill({
+export function RectangleAndHandPointUpLeftFill({
   className = 'w-6',
   color = '#000000',
 }: {

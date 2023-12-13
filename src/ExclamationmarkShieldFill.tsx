@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkShieldFill({
+export function ExclamationmarkShieldFill({
   className = 'w-6',
   color = '#000000',
 }: {

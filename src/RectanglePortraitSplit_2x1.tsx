@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitSplit_2x1({
+export function RectanglePortraitSplit_2x1({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SteeringwheelExclamationmark({
+export function SteeringwheelExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

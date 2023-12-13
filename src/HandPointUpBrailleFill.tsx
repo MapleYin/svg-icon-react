@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HandPointUpBrailleFill({
+export function HandPointUpBrailleFill({
   className = 'w-6',
   color = '#000000',
 }: {

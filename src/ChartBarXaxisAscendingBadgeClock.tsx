@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChartBarXaxisAscendingBadgeClock({
+export function ChartBarXaxisAscendingBadgeClock({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonProgrammableSquareFill({
+export function ButtonProgrammableSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

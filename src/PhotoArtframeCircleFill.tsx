@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PhotoArtframeCircleFill({
+export function PhotoArtframeCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

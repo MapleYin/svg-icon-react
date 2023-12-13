@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BellAndWavesLeftAndRight({
+export function BellAndWavesLeftAndRight({
   className = 'w-6',
   color = '#000000',
 }: {

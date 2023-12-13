@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DoorGarageDoubleBayClosed({
+export function DoorGarageDoubleBayClosed({
   className = 'w-6',
   color = '#000000',
 }: {

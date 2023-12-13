@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TruckPickupSideAndExclamationmark({
+export function TruckPickupSideAndExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

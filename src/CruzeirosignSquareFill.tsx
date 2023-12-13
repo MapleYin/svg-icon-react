@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CruzeirosignSquareFill({
+export function CruzeirosignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

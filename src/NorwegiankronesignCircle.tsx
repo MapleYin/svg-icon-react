@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function NorwegiankronesignCircle({
+export function NorwegiankronesignCircle({
   className = 'w-6',
   color = '#000000',
 }: {

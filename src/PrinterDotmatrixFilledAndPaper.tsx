@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PrinterDotmatrixFilledAndPaper({
+export function PrinterDotmatrixFilledAndPaper({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MailAndTextMagnifyingglass({
+export function MailAndTextMagnifyingglass({
   className = 'w-6',
   color = '#000000',
 }: {

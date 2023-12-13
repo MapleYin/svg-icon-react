@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CameraOnRectangleFill({
+export function CameraOnRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

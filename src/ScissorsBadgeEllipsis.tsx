@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ScissorsBadgeEllipsis({
+export function ScissorsBadgeEllipsis({
   className = 'w-6',
   color = '#000000',
 }: {

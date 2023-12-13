@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AlarmWavesLeftAndRight({
+export function AlarmWavesLeftAndRight({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowBackwardToLineSquareFill({
+export function ArrowBackwardToLineSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

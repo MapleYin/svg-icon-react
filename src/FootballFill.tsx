@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FootballFill({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function FootballFill({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24.4251 24.0591' className={className}>
       <path

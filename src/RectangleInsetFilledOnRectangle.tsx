@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleInsetFilledOnRectangle({
+export function RectangleInsetFilledOnRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

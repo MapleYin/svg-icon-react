@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SpeakerBadgeExclamationmarkFill({
+export function SpeakerBadgeExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

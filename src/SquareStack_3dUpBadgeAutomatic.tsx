@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareStack_3dUpBadgeAutomatic({
+export function SquareStack_3dUpBadgeAutomatic({
   className = 'w-6',
   color = '#000000',
 }: {

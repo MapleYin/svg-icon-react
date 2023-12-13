@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonAndArrowLeftAndArrowRight({
+export function PersonAndArrowLeftAndArrowRight({
   className = 'w-6',
   color = '#000000',
 }: {

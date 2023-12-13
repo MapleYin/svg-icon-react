@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RJoystickPressDownFill({
+export function RJoystickPressDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

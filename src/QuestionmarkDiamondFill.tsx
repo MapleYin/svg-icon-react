@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function QuestionmarkDiamondFill({
+export function QuestionmarkDiamondFill({
   className = 'w-6',
   color = '#000000',
 }: {

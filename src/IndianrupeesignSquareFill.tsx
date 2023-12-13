@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IndianrupeesignSquareFill({
+export function IndianrupeesignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

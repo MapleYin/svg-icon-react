@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LightCylindricalCeilingFill({
+export function LightCylindricalCeilingFill({
   className = 'w-6',
   color = '#000000',
 }: {

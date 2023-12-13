@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleSplit_3x1Fill({
+export function RectangleSplit_3x1Fill({
   className = 'w-6',
   color = '#000000',
 }: {

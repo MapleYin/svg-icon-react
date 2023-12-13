@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowClockwiseCircleFill({
+export function ArrowClockwiseCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

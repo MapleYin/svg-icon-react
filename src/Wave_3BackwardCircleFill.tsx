@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Wave_3BackwardCircleFill({
+export function Wave_3BackwardCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

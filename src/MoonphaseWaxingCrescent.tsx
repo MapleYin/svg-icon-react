@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MoonphaseWaxingCrescent({
+export function MoonphaseWaxingCrescent({
   className = 'w-6',
   color = '#000000',
 }: {

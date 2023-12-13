@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleDashedInsetFilled({
+export function CircleDashedInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

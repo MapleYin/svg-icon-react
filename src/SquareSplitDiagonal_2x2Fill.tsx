@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareSplitDiagonal_2x2Fill({
+export function SquareSplitDiagonal_2x2Fill({
   className = 'w-6',
   color = '#000000',
 }: {

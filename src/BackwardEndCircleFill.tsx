@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BackwardEndCircleFill({
+export function BackwardEndCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

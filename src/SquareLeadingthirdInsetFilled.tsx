@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareLeadingthirdInsetFilled({
+export function SquareLeadingthirdInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CameraMacroCircleFill({
+export function CameraMacroCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

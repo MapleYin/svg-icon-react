@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function WindowCeiling({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function WindowCeiling({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 27.1288 22.4803' className={className}>
       <path

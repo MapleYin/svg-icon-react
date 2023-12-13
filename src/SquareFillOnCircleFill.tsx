@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareFillOnCircleFill({
+export function SquareFillOnCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

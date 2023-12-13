@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SteeringwheelAndLiquidWave({
+export function SteeringwheelAndLiquidWave({
   className = 'w-6',
   color = '#000000',
 }: {

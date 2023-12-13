@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlashlightSlashCircle({
+export function FlashlightSlashCircle({
   className = 'w-6',
   color = '#000000',
 }: {

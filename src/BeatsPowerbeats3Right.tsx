@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BeatsPowerbeats3Right({
+export function BeatsPowerbeats3Right({
   className = 'w-6',
   color = '#000000',
 }: {

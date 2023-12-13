@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MinusPlusBatteryblockExclamationmark({
+export function MinusPlusBatteryblockExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

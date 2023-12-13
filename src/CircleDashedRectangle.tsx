@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleDashedRectangle({
+export function CircleDashedRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

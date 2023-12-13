@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ListDashHeaderRectangle({
+export function ListDashHeaderRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

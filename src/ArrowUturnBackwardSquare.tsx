@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUturnBackwardSquare({
+export function ArrowUturnBackwardSquare({
   className = 'w-6',
   color = '#000000',
 }: {

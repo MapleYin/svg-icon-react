@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Axle_2DriveshaftDisengaged({
+export function Axle_2DriveshaftDisengaged({
   className = 'w-6',
   color = '#000000',
 }: {

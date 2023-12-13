@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleGrid_1x2Fill({
+export function RectangleGrid_1x2Fill({
   className = 'w-6',
   color = '#000000',
 }: {

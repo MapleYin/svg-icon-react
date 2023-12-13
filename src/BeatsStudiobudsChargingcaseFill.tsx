@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BeatsStudiobudsChargingcaseFill({
+export function BeatsStudiobudsChargingcaseFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareshapeDottedSquareshape({
+export function SquareshapeDottedSquareshape({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IphoneSmartbatterycaseGen1({
+export function IphoneSmartbatterycaseGen1({
   className = 'w-6',
   color = '#000000',
 }: {

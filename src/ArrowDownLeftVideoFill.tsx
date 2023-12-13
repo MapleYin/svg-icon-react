@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowDownLeftVideoFill({
+export function ArrowDownLeftVideoFill({
   className = 'w-6',
   color = '#000000',
 }: {

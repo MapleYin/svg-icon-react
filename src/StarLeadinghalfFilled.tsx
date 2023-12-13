@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function StarLeadinghalfFilled({
+export function StarLeadinghalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowshapeLeftArrowshapeRight({
+export function ArrowshapeLeftArrowshapeRight({
   className = 'w-6',
   color = '#000000',
 }: {

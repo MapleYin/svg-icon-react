@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RtButtonRoundedtopHorizontalFill({
+export function RtButtonRoundedtopHorizontalFill({
   className = 'w-6',
   color = '#000000',
 }: {

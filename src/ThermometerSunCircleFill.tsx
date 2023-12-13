@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ThermometerSunCircleFill({
+export function ThermometerSunCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

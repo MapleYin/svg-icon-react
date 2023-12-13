@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ShieldLefthalfFilledSlash({
+export function ShieldLefthalfFilledSlash({
   className = 'w-6',
   color = '#000000',
 }: {

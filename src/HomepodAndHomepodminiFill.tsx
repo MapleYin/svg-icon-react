@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HomepodAndHomepodminiFill({
+export function HomepodAndHomepodminiFill({
   className = 'w-6',
   color = '#000000',
 }: {

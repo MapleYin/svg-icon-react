@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FilemenuAndCursorarrow({
+export function FilemenuAndCursorarrow({
   className = 'w-6',
   color = '#000000',
 }: {

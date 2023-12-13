@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DiamondRighthalfFilled({
+export function DiamondRighthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

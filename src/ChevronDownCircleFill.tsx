@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronDownCircleFill({
+export function ChevronDownCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

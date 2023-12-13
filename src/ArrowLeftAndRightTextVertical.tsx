@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowLeftAndRightTextVertical({
+export function ArrowLeftAndRightTextVertical({
   className = 'w-6',
   color = '#000000',
 }: {

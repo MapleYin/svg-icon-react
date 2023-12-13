@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitBadgePlusFill({
+export function RectanglePortraitBadgePlusFill({
   className = 'w-6',
   color = '#000000',
 }: {

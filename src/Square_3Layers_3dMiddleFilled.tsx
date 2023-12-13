@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Square_3Layers_3dMiddleFilled({
+export function Square_3Layers_3dMiddleFilled({
   className = 'w-6',
   color = '#000000',
 }: {

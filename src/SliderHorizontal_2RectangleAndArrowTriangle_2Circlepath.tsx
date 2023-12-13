@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SliderHorizontal_2RectangleAndArrowTriangle_2Circlepath({
+export function SliderHorizontal_2RectangleAndArrowTriangle_2Circlepath({
   className = 'w-6',
   color = '#000000',
 }: {

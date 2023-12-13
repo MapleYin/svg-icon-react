@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleSplit_2x1SlashFill({
+export function RectangleSplit_2x1SlashFill({
   className = 'w-6',
   color = '#000000',
 }: {

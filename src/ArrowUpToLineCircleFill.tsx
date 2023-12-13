@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpToLineCircleFill({
+export function ArrowUpToLineCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

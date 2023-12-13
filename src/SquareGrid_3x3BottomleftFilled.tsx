@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareGrid_3x3BottomleftFilled({
+export function SquareGrid_3x3BottomleftFilled({
   className = 'w-6',
   color = '#000000',
 }: {

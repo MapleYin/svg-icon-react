@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleHexagongridCircleFill({
+export function CircleHexagongridCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

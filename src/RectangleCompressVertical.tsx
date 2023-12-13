@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleCompressVertical({
+export function RectangleCompressVertical({
   className = 'w-6',
   color = '#000000',
 }: {

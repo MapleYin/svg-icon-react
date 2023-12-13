@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PlusRectanglePortrait({
+export function PlusRectanglePortrait({
   className = 'w-6',
   color = '#000000',
 }: {

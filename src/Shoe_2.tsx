@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Shoe_2({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function Shoe_2({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40.7946 19.241' className={className}>
       <path

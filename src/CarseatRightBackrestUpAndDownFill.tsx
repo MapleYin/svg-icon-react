@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarseatRightBackrestUpAndDownFill({
+export function CarseatRightBackrestUpAndDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

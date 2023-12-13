@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareAndAtRectangleFill({
+export function SquareAndAtRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LightRecessed_3Inverse({
+export function LightRecessed_3Inverse({
   className = 'w-6',
   color = '#000000',
 }: {

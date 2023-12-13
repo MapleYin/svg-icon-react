@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DanishkronesignSquareFill({
+export function DanishkronesignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

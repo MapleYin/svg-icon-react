@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ApplepencilAdapterUsbCFill({
+export function ApplepencilAdapterUsbCFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowTurnUpForwardIphone({
+export function ArrowTurnUpForwardIphone({
   className = 'w-6',
   color = '#000000',
 }: {

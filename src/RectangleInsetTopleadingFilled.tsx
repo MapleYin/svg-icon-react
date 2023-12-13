@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleInsetTopleadingFilled({
+export function RectangleInsetTopleadingFilled({
   className = 'w-6',
   color = '#000000',
 }: {

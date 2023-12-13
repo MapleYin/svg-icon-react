@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function M4ButtonHorizontalFill({
+export function M4ButtonHorizontalFill({
   className = 'w-6',
   color = '#000000',
 }: {

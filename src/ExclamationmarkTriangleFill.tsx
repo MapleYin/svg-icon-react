@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkTriangleFill({
+export function ExclamationmarkTriangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

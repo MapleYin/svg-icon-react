@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PointForwardToPointCapsulepath({
+export function PointForwardToPointCapsulepath({
   className = 'w-6',
   color = '#000000',
 }: {

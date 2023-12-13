@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopLaneDashedArrowtriangleInward({
+export function CarTopLaneDashedArrowtriangleInward({
   className = 'w-6',
   color = '#000000',
 }: {

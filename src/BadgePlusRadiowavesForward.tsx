@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BadgePlusRadiowavesForward({
+export function BadgePlusRadiowavesForward({
   className = 'w-6',
   color = '#000000',
 }: {

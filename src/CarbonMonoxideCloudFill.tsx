@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarbonMonoxideCloudFill({
+export function CarbonMonoxideCloudFill({
   className = 'w-6',
   color = '#000000',
 }: {

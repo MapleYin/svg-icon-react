@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IphoneGen3SlashCircleFill({
+export function IphoneGen3SlashCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

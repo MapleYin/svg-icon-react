@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitBottomleadingInsetFilled({
+export function RectanglePortraitBottomleadingInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

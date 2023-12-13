@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarseatLeftAndHeatWaves({
+export function CarseatLeftAndHeatWaves({
   className = 'w-6',
   color = '#000000',
 }: {

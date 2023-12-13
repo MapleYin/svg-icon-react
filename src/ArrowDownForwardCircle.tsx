@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowDownForwardCircle({
+export function ArrowDownForwardCircle({
   className = 'w-6',
   color = '#000000',
 }: {

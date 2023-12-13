@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function QuestionmarkCircleFill({
+export function QuestionmarkCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

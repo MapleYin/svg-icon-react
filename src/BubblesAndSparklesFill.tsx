@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BubblesAndSparklesFill({
+export function BubblesAndSparklesFill({
   className = 'w-6',
   color = '#000000',
 }: {

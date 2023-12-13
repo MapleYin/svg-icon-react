@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SparklesSquareFilledOnSquare({
+export function SparklesSquareFilledOnSquare({
   className = 'w-6',
   color = '#000000',
 }: {

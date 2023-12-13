@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExternaldriveBadgeExclamationmark({
+export function ExternaldriveBadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

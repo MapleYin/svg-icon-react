@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BubbleLeftAndExclamationmarkBubbleRight({
+export function BubbleLeftAndExclamationmarkBubbleRight({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowshapeBounceRightFill({
+export function ArrowshapeBounceRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

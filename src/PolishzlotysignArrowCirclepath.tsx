@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PolishzlotysignArrowCirclepath({
+export function PolishzlotysignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

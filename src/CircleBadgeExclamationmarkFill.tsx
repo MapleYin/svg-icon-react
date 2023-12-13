@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleBadgeExclamationmarkFill({
+export function CircleBadgeExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LocationNorthLineFill({
+export function LocationNorthLineFill({
   className = 'w-6',
   color = '#000000',
 }: {

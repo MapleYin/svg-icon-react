@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MirrorSideRightAndArrowTurnDownLeft({
+export function MirrorSideRightAndArrowTurnDownLeft({
   className = 'w-6',
   color = '#000000',
 }: {

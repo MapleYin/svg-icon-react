@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Snowboard({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function Snowboard({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26.513 26.1642' className={className}>
       <path

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RJoystick({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function RJoystick({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26.8832 22.0797' className={className}>
       <path

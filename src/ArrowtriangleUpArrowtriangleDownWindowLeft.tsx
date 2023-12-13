@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowtriangleUpArrowtriangleDownWindowLeft({
+export function ArrowtriangleUpArrowtriangleDownWindowLeft({
   className = 'w-6',
   color = '#000000',
 }: {

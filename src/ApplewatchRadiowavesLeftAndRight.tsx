@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ApplewatchRadiowavesLeftAndRight({
+export function ApplewatchRadiowavesLeftAndRight({
   className = 'w-6',
   color = '#000000',
 }: {

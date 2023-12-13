@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FuelpumpArrowtriangleRightFill({
+export function FuelpumpArrowtriangleRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

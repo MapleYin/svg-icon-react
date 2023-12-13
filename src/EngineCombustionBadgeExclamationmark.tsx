@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EngineCombustionBadgeExclamationmark({
+export function EngineCombustionBadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

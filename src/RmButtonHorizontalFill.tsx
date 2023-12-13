@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RmButtonHorizontalFill({
+export function RmButtonHorizontalFill({
   className = 'w-6',
   color = '#000000',
 }: {

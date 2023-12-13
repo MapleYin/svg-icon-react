@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AirConditionerVertical({
+export function AirConditionerVertical({
   className = 'w-6',
   color = '#000000',
 }: {

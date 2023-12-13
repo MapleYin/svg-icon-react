@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleGridCrossUpFilled({
+export function CircleGridCrossUpFilled({
   className = 'w-6',
   color = '#000000',
 }: {

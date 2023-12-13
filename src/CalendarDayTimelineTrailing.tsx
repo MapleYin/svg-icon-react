@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CalendarDayTimelineTrailing({
+export function CalendarDayTimelineTrailing({
   className = 'w-6',
   color = '#000000',
 }: {

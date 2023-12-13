@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Square_3Layers_3dDownLeft({
+export function Square_3Layers_3dDownLeft({
   className = 'w-6',
   color = '#000000',
 }: {

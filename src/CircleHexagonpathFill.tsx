@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleHexagonpathFill({
+export function CircleHexagonpathFill({
   className = 'w-6',
   color = '#000000',
 }: {

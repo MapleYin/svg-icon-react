@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleOnRectangleSlash({
+export function RectangleOnRectangleSlash({
   className = 'w-6',
   color = '#000000',
 }: {

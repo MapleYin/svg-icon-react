@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FrancsignArrowCirclepath({
+export function FrancsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

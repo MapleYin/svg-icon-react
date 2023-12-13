@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleInsetFilledBadgeRecord({
+export function RectangleInsetFilledBadgeRecord({
   className = 'w-6',
   color = '#000000',
 }: {

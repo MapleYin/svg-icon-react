@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BitcoinsignArrowCirclepath({
+export function BitcoinsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

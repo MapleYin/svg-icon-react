@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SterlingsignArrowCirclepath({
+export function SterlingsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

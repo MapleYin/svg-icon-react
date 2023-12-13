@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CheckmarkCircleTrianglebadgeExclamationmark({
+export function CheckmarkCircleTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

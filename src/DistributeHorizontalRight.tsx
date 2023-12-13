@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DistributeHorizontalRight({
+export function DistributeHorizontalRight({
   className = 'w-6',
   color = '#000000',
 }: {

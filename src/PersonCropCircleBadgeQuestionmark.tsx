@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonCropCircleBadgeQuestionmark({
+export function PersonCropCircleBadgeQuestionmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BellBadgeWaveformFill({
+export function BellBadgeWaveformFill({
   className = 'w-6',
   color = '#000000',
 }: {

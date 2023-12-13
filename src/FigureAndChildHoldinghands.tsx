@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureAndChildHoldinghands({
+export function FigureAndChildHoldinghands({
   className = 'w-6',
   color = '#000000',
 }: {

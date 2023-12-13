@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowRightToLineCircle({
+export function ArrowRightToLineCircle({
   className = 'w-6',
   color = '#000000',
 }: {

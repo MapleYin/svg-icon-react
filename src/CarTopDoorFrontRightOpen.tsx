@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopDoorFrontRightOpen({
+export function CarTopDoorFrontRightOpen({
   className = 'w-6',
   color = '#000000',
 }: {

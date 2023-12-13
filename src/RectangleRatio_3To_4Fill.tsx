@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleRatio_3To_4Fill({
+export function RectangleRatio_3To_4Fill({
   className = 'w-6',
   color = '#000000',
 }: {

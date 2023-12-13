@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronLeftForwardslashChevronRight({
+export function ChevronLeftForwardslashChevronRight({
   className = 'w-6',
   color = '#000000',
 }: {

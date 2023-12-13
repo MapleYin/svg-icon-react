@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function L2ButtonAngledtopVerticalLeft({
+export function L2ButtonAngledtopVerticalLeft({
   className = 'w-6',
   color = '#000000',
 }: {

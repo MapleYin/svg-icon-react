@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function NorwegiankronesignSquare({
+export function NorwegiankronesignSquare({
   className = 'w-6',
   color = '#000000',
 }: {

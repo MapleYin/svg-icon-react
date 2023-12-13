@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SignpostAndArrowtriangleUpFill({
+export function SignpostAndArrowtriangleUpFill({
   className = 'w-6',
   color = '#000000',
 }: {

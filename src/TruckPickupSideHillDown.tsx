@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TruckPickupSideHillDown({
+export function TruckPickupSideHillDown({
   className = 'w-6',
   color = '#000000',
 }: {

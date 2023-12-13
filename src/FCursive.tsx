@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FCursive({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function FCursive({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14.1856 21.3172' className={className}>
       <path

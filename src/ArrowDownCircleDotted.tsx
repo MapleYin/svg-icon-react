@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowDownCircleDotted({
+export function ArrowDownCircleDotted({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureStandLineDottedFigureStand({
+export function FigureStandLineDottedFigureStand({
   className = 'w-6',
   color = '#000000',
 }: {

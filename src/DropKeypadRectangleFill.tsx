@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DropKeypadRectangleFill({
+export function DropKeypadRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

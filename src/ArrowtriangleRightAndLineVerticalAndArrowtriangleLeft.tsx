@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowtriangleRightAndLineVerticalAndArrowtriangleLeft({
+export function ArrowtriangleRightAndLineVerticalAndArrowtriangleLeft({
   className = 'w-6',
   color = '#000000',
 }: {

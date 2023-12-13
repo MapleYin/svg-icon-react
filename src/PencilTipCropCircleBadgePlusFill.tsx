@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PencilTipCropCircleBadgePlusFill({
+export function PencilTipCropCircleBadgePlusFill({
   className = 'w-6',
   color = '#000000',
 }: {

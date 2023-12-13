@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BoltTrianglebadgeExclamationmarkFill({
+export function BoltTrianglebadgeExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

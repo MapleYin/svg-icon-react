@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AppwindowSwipeRectangle({
+export function AppwindowSwipeRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

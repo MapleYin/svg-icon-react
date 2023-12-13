@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function PartyPopperFill({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function PartyPopperFill({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30.2614 29.5664' className={className}>
       <path

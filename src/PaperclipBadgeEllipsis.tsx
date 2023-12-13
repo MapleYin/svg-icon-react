@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PaperclipBadgeEllipsis({
+export function PaperclipBadgeEllipsis({
   className = 'w-6',
   color = '#000000',
 }: {

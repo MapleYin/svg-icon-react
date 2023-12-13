@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkArrowTriangle_2Circlepath({
+export function ExclamationmarkArrowTriangle_2Circlepath({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TextformatSizeSmaller({
+export function TextformatSizeSmaller({
   className = 'w-6',
   color = '#000000',
 }: {

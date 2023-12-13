@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MappinAndEllipseCircleFill({
+export function MappinAndEllipseCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

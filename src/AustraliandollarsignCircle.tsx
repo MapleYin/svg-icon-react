@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AustraliandollarsignCircle({
+export function AustraliandollarsignCircle({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareAndArrowUpCircle({
+export function SquareAndArrowUpCircle({
   className = 'w-6',
   color = '#000000',
 }: {

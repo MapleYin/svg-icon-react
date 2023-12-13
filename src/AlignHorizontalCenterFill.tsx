@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AlignHorizontalCenterFill({
+export function AlignHorizontalCenterFill({
   className = 'w-6',
   color = '#000000',
 }: {

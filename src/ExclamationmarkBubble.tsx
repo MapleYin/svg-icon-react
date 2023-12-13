@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkBubble({
+export function ExclamationmarkBubble({
   className = 'w-6',
   color = '#000000',
 }: {

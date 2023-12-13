@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Chineseyuanrenminbisign({
+export function Chineseyuanrenminbisign({
   className = 'w-6',
   color = '#000000',
 }: {

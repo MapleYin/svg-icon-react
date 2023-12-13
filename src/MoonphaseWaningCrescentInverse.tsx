@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MoonphaseWaningCrescentInverse({
+export function MoonphaseWaningCrescentInverse({
   className = 'w-6',
   color = '#000000',
 }: {

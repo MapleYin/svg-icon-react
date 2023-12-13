@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleBottomrighthalfCheckered({
+export function CircleBottomrighthalfCheckered({
   className = 'w-6',
   color = '#000000',
 }: {

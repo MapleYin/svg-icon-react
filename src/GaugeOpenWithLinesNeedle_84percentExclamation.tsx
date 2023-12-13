@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GaugeOpenWithLinesNeedle_84percentExclamation({
+export function GaugeOpenWithLinesNeedle_84percentExclamation({
   className = 'w-6',
   color = '#000000',
 }: {

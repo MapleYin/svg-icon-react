@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Bicycle({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function Bicycle({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40.7409 24.7691' className={className}>
       <path

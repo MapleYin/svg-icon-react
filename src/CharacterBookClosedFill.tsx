@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CharacterBookClosedFill({
+export function CharacterBookClosedFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RsbButtonAngledbottomHorizontalRight({
+export function RsbButtonAngledbottomHorizontalRight({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareGrid_3x1BelowLineGrid_1x2Fill({
+export function SquareGrid_3x1BelowLineGrid_1x2Fill({
   className = 'w-6',
   color = '#000000',
 }: {

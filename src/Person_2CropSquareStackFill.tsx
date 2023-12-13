@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Person_2CropSquareStackFill({
+export function Person_2CropSquareStackFill({
   className = 'w-6',
   color = '#000000',
 }: {

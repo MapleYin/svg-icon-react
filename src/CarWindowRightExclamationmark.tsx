@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarWindowRightExclamationmark({
+export function CarWindowRightExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

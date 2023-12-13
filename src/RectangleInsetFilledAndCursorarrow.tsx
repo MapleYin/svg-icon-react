@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleInsetFilledAndCursorarrow({
+export function RectangleInsetFilledAndCursorarrow({
   className = 'w-6',
   color = '#000000',
 }: {

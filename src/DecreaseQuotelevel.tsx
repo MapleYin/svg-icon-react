@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function DecreaseQuotelevel({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function DecreaseQuotelevel({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10.909 22.8383' className={className}>
       <path

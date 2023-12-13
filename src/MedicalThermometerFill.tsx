@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MedicalThermometerFill({
+export function MedicalThermometerFill({
   className = 'w-6',
   color = '#000000',
 }: {

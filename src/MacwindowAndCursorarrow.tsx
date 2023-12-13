@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MacwindowAndCursorarrow({
+export function MacwindowAndCursorarrow({
   className = 'w-6',
   color = '#000000',
 }: {

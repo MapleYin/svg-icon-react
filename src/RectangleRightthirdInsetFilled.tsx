@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleRightthirdInsetFilled({
+export function RectangleRightthirdInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkQuestionmark({
+export function ExclamationmarkQuestionmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ClockBadgeExclamationmark({
+export function ClockBadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

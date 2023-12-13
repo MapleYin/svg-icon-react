@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonCropSquareFilledAndAtRectangleFill({
+export function PersonCropSquareFilledAndAtRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

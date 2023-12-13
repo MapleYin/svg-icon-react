@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function KeyHorizontal({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function KeyHorizontal({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 29.8499 14.932' className={className}>
       <path

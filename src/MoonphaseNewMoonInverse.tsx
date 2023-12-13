@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MoonphaseNewMoonInverse({
+export function MoonphaseNewMoonInverse({
   className = 'w-6',
   color = '#000000',
 }: {

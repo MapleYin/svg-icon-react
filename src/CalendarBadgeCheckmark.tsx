@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CalendarBadgeCheckmark({
+export function CalendarBadgeCheckmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function OctagonRighthalfFilled({
+export function OctagonRighthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

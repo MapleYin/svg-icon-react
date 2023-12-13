@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SwirlCircleRighthalfFilledInverse({
+export function SwirlCircleRighthalfFilledInverse({
   className = 'w-6',
   color = '#000000',
 }: {

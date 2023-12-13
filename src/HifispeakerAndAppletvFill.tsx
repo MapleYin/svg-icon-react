@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HifispeakerAndAppletvFill({
+export function HifispeakerAndAppletvFill({
   className = 'w-6',
   color = '#000000',
 }: {

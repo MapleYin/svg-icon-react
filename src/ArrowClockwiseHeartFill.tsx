@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowClockwiseHeartFill({
+export function ArrowClockwiseHeartFill({
   className = 'w-6',
   color = '#000000',
 }: {

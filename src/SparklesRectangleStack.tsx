@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SparklesRectangleStack({
+export function SparklesRectangleStack({
   className = 'w-6',
   color = '#000000',
 }: {

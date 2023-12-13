@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RJoystickTiltDownFill({
+export function RJoystickTiltDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

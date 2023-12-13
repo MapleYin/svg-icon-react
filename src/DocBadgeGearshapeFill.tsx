@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DocBadgeGearshapeFill({
+export function DocBadgeGearshapeFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TextformatSuperscript({
+export function TextformatSuperscript({
   className = 'w-6',
   color = '#000000',
 }: {

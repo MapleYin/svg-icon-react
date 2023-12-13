@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowLeftAndRightCircleFill({
+export function ArrowLeftAndRightCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

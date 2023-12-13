@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SteeringwheelArrowtriangleRight({
+export function SteeringwheelArrowtriangleRight({
   className = 'w-6',
   color = '#000000',
 }: {

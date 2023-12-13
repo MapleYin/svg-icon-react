@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Flag_2CrossedCircleFill({
+export function Flag_2CrossedCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

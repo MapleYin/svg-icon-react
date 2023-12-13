@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronForwardSquareFill({
+export function ChevronForwardSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

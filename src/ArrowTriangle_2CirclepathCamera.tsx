@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowTriangle_2CirclepathCamera({
+export function ArrowTriangle_2CirclepathCamera({
   className = 'w-6',
   color = '#000000',
 }: {

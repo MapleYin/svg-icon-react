@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CursorarrowClickBadgeClock({
+export function CursorarrowClickBadgeClock({
   className = 'w-6',
   color = '#000000',
 }: {

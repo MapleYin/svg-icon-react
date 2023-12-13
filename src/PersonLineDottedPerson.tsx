@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonLineDottedPerson({
+export function PersonLineDottedPerson({
   className = 'w-6',
   color = '#000000',
 }: {

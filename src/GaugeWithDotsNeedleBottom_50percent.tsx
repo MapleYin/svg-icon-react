@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GaugeWithDotsNeedleBottom_50percent({
+export function GaugeWithDotsNeedleBottom_50percent({
   className = 'w-6',
   color = '#000000',
 }: {

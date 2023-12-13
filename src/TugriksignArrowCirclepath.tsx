@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TugriksignArrowCirclepath({
+export function TugriksignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

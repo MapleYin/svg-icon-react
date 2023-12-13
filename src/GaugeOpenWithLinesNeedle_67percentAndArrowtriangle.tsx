@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GaugeOpenWithLinesNeedle_67percentAndArrowtriangle({
+export function GaugeOpenWithLinesNeedle_67percentAndArrowtriangle({
   className = 'w-6',
   color = '#000000',
 }: {

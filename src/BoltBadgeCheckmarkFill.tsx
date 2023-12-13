@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BoltBadgeCheckmarkFill({
+export function BoltBadgeCheckmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

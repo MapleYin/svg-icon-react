@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitSlash({
+export function RectanglePortraitSlash({
   className = 'w-6',
   color = '#000000',
 }: {

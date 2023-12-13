@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareFillAndLineVerticalAndSquareFill({
+export function SquareFillAndLineVerticalAndSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

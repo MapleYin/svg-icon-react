@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function QuestionmarkAppDashed({
+export function QuestionmarkAppDashed({
   className = 'w-6',
   color = '#000000',
 }: {

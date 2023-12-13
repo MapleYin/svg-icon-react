@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WaveformBadgeExclamationmark({
+export function WaveformBadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

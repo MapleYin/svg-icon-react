@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareOnSquareBadgePersonCropFill({
+export function SquareOnSquareBadgePersonCropFill({
   className = 'w-6',
   color = '#000000',
 }: {

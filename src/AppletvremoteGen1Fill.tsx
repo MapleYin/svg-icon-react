@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AppletvremoteGen1Fill({
+export function AppletvremoteGen1Fill({
   className = 'w-6',
   color = '#000000',
 }: {

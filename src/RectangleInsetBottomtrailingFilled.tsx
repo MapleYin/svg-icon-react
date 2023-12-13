@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleInsetBottomtrailingFilled({
+export function RectangleInsetBottomtrailingFilled({
   className = 'w-6',
   color = '#000000',
 }: {

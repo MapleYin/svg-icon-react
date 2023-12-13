@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Line_3CrossedSwirlCircleFill({
+export function Line_3CrossedSwirlCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

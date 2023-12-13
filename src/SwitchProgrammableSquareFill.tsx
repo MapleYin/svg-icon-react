@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SwitchProgrammableSquareFill({
+export function SwitchProgrammableSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

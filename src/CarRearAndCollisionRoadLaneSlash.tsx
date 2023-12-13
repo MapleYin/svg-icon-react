@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarRearAndCollisionRoadLaneSlash({
+export function CarRearAndCollisionRoadLaneSlash({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function RectangleRatio_3To_4({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function RectangleRatio_3To_4({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16.8341 22.0158' className={className}>
       <path

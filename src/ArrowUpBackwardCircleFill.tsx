@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpBackwardCircleFill({
+export function ArrowUpBackwardCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitAndArrowRightFill({
+export function RectanglePortraitAndArrowRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

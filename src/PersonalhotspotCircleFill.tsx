@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonalhotspotCircleFill({
+export function PersonalhotspotCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

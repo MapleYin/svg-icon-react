@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleLefthalfFilledRighthalfStripedHorizontalInverse({
+export function CircleLefthalfFilledRighthalfStripedHorizontalInverse({
   className = 'w-6',
   color = '#000000',
 }: {

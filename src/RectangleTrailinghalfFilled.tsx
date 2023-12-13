@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleTrailinghalfFilled({
+export function RectangleTrailinghalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

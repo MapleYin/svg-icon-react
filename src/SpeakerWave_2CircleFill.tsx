@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SpeakerWave_2CircleFill({
+export function SpeakerWave_2CircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

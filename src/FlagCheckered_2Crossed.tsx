@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlagCheckered_2Crossed({
+export function FlagCheckered_2Crossed({
   className = 'w-6',
   color = '#000000',
 }: {

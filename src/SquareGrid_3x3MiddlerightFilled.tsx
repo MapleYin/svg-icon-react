@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareGrid_3x3MiddlerightFilled({
+export function SquareGrid_3x3MiddlerightFilled({
   className = 'w-6',
   color = '#000000',
 }: {

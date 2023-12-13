@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AutomaticHeadlightLowBeamFill({
+export function AutomaticHeadlightLowBeamFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BubbleLeftAndTextBubbleRight({
+export function BubbleLeftAndTextBubbleRight({
   className = 'w-6',
   color = '#000000',
 }: {

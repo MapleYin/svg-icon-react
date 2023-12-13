@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DanishkronesignArrowCirclepath({
+export function DanishkronesignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

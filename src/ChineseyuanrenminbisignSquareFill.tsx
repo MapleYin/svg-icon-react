@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChineseyuanrenminbisignSquareFill({
+export function ChineseyuanrenminbisignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

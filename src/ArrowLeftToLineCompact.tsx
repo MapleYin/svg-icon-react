@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowLeftToLineCompact({
+export function ArrowLeftToLineCompact({
   className = 'w-6',
   color = '#000000',
 }: {

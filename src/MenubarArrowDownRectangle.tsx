@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MenubarArrowDownRectangle({
+export function MenubarArrowDownRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function KeyboardOnehandedRight({
+export function KeyboardOnehandedRight({
   className = 'w-6',
   color = '#000000',
 }: {

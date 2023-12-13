@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ClockArrow_2Circlepath({
+export function ClockArrow_2Circlepath({
   className = 'w-6',
   color = '#000000',
 }: {

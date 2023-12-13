@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TractionControlTirepressureExclamationmark({
+export function TractionControlTirepressureExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

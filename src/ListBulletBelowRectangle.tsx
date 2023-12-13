@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ListBulletBelowRectangle({
+export function ListBulletBelowRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

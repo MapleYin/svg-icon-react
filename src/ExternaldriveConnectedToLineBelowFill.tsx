@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExternaldriveConnectedToLineBelowFill({
+export function ExternaldriveConnectedToLineBelowFill({
   className = 'w-6',
   color = '#000000',
 }: {

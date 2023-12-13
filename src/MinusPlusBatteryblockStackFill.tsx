@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MinusPlusBatteryblockStackFill({
+export function MinusPlusBatteryblockStackFill({
   className = 'w-6',
   color = '#000000',
 }: {

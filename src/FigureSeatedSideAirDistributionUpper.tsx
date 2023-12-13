@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSeatedSideAirDistributionUpper({
+export function FigureSeatedSideAirDistributionUpper({
   className = 'w-6',
   color = '#000000',
 }: {

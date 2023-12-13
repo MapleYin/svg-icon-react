@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function R2ButtonRoundedtopHorizontal({
+export function R2ButtonRoundedtopHorizontal({
   className = 'w-6',
   color = '#000000',
 }: {

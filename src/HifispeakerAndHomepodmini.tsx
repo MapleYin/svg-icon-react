@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HifispeakerAndHomepodmini({
+export function HifispeakerAndHomepodmini({
   className = 'w-6',
   color = '#000000',
 }: {

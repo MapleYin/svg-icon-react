@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EllipsisVerticalBubbleFill({
+export function EllipsisVerticalBubbleFill({
   className = 'w-6',
   color = '#000000',
 }: {

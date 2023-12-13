@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TextLineLastAndArrowtriangleForward({
+export function TextLineLastAndArrowtriangleForward({
   className = 'w-6',
   color = '#000000',
 }: {

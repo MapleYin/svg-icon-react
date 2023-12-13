@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarRearAndTireMarksSlash({
+export function CarRearAndTireMarksSlash({
   className = 'w-6',
   color = '#000000',
 }: {

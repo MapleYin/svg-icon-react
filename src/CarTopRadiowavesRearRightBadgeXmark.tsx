@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopRadiowavesRearRightBadgeXmark({
+export function CarTopRadiowavesRearRightBadgeXmark({
   className = 'w-6',
   color = '#000000',
 }: {

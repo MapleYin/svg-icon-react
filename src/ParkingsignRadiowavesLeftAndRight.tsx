@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ParkingsignRadiowavesLeftAndRight({
+export function ParkingsignRadiowavesLeftAndRight({
   className = 'w-6',
   color = '#000000',
 }: {

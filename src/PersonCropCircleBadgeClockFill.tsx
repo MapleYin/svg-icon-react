@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonCropCircleBadgeClockFill({
+export function PersonCropCircleBadgeClockFill({
   className = 'w-6',
   color = '#000000',
 }: {

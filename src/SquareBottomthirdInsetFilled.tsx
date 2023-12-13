@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareBottomthirdInsetFilled({
+export function SquareBottomthirdInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

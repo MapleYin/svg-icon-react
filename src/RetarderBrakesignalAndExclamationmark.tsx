@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RetarderBrakesignalAndExclamationmark({
+export function RetarderBrakesignalAndExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

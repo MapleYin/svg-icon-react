@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Axle_2FrontDisengaged({
+export function Axle_2FrontDisengaged({
   className = 'w-6',
   color = '#000000',
 }: {

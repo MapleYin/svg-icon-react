@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CapsuleRighthalfFilled({
+export function CapsuleRighthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

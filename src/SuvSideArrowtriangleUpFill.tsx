@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SuvSideArrowtriangleUpFill({
+export function SuvSideArrowtriangleUpFill({
   className = 'w-6',
   color = '#000000',
 }: {

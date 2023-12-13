@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WatchfaceApplewatchCase({
+export function WatchfaceApplewatchCase({
   className = 'w-6',
   color = '#000000',
 }: {

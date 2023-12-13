@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ThermometerTransmission({
+export function ThermometerTransmission({
   className = 'w-6',
   color = '#000000',
 }: {

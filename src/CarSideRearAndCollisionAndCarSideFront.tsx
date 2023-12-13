@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarSideRearAndCollisionAndCarSideFront({
+export function CarSideRearAndCollisionAndCarSideFront({
   className = 'w-6',
   color = '#000000',
 }: {

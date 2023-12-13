@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EarTrianglebadgeExclamationmark({
+export function EarTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

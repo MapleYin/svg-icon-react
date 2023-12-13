@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowTriangle_2CirclepathIcloudFill({
+export function ArrowTriangle_2CirclepathIcloudFill({
   className = 'w-6',
   color = '#000000',
 }: {

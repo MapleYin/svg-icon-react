@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SteeringwheelRoadLane({
+export function SteeringwheelRoadLane({
   className = 'w-6',
   color = '#000000',
 }: {

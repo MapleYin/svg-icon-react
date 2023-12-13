@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function AirportExtreme({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function AirportExtreme({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30.0146 12.8922' className={className}>
       <path

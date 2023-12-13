@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MessageBadgeFilledFill({
+export function MessageBadgeFilledFill({
   className = 'w-6',
   color = '#000000',
 }: {

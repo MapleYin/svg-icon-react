@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LJoystickPressDownFill({
+export function LJoystickPressDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

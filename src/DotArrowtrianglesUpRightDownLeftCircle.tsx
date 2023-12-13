@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DotArrowtrianglesUpRightDownLeftCircle({
+export function DotArrowtrianglesUpRightDownLeftCircle({
   className = 'w-6',
   color = '#000000',
 }: {

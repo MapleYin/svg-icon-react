@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function HearingdeviceEar({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function HearingdeviceEar({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18.5697 27.9057' className={className}>
       <path

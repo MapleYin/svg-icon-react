@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Line_3HorizontalButtonAngledtopVerticalRight({
+export function Line_3HorizontalButtonAngledtopVerticalRight({
   className = 'w-6',
   color = '#000000',
 }: {

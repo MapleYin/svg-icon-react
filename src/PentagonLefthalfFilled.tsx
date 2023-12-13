@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PentagonLefthalfFilled({
+export function PentagonLefthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

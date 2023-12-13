@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpRightVideoFill({
+export function ArrowUpRightVideoFill({
   className = 'w-6',
   color = '#000000',
 }: {

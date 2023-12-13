@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExternaldriveBadgePersonCrop({
+export function ExternaldriveBadgePersonCrop({
   className = 'w-6',
   color = '#000000',
 }: {

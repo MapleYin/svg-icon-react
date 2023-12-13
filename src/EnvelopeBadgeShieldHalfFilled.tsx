@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EnvelopeBadgeShieldHalfFilled({
+export function EnvelopeBadgeShieldHalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

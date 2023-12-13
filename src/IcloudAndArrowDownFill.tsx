@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IcloudAndArrowDownFill({
+export function IcloudAndArrowDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

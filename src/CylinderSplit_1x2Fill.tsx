@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CylinderSplit_1x2Fill({
+export function CylinderSplit_1x2Fill({
   className = 'w-6',
   color = '#000000',
 }: {

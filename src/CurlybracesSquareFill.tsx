@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CurlybracesSquareFill({
+export function CurlybracesSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

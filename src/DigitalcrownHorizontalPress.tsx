@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DigitalcrownHorizontalPress({
+export function DigitalcrownHorizontalPress({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SpeakerWave_2BubbleFill({
+export function SpeakerWave_2BubbleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUturnDownSquareFill({
+export function ArrowUturnDownSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

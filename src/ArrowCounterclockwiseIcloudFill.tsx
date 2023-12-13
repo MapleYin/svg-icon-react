@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowCounterclockwiseIcloudFill({
+export function ArrowCounterclockwiseIcloudFill({
   className = 'w-6',
   color = '#000000',
 }: {

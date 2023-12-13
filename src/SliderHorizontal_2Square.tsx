@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SliderHorizontal_2Square({
+export function SliderHorizontal_2Square({
   className = 'w-6',
   color = '#000000',
 }: {

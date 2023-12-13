@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleLeadinghalfInsetFilled({
+export function RectangleLeadinghalfInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpCircleBadgeClock({
+export function ArrowUpCircleBadgeClock({
   className = 'w-6',
   color = '#000000',
 }: {

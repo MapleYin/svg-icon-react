@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareRighthalfFilled({
+export function SquareRighthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

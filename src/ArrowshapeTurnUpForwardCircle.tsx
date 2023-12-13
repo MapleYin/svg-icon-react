@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowshapeTurnUpForwardCircle({
+export function ArrowshapeTurnUpForwardCircle({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpForwardAndArrowDownBackward({
+export function ArrowUpForwardAndArrowDownBackward({
   className = 'w-6',
   color = '#000000',
 }: {

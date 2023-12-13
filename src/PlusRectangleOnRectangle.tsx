@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PlusRectangleOnRectangle({
+export function PlusRectangleOnRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

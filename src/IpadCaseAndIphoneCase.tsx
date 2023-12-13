@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IpadCaseAndIphoneCase({
+export function IpadCaseAndIphoneCase({
   className = 'w-6',
   color = '#000000',
 }: {

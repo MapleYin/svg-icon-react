@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TurkishlirasignCircle({
+export function TurkishlirasignCircle({
   className = 'w-6',
   color = '#000000',
 }: {

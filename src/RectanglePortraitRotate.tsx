@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitRotate({
+export function RectanglePortraitRotate({
   className = 'w-6',
   color = '#000000',
 }: {

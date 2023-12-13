@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WaterWavesAndArrowDownTrianglebadgeExclamationmark({
+export function WaterWavesAndArrowDownTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

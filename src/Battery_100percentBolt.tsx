@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Battery_100percentBolt({
+export function Battery_100percentBolt({
   className = 'w-6',
   color = '#000000',
 }: {

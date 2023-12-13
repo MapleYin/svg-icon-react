@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HandRaisedBrakesignalSlash({
+export function HandRaisedBrakesignalSlash({
   className = 'w-6',
   color = '#000000',
 }: {

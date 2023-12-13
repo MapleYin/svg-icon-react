@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ThermometerSnowflakeCircleFill({
+export function ThermometerSnowflakeCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkWarninglight({
+export function ExclamationmarkWarninglight({
   className = 'w-6',
   color = '#000000',
 }: {

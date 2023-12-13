@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpRightAndArrowDownLeftRectangleFill({
+export function ArrowUpRightAndArrowDownLeftRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

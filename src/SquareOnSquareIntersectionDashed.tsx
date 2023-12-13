@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareOnSquareIntersectionDashed({
+export function SquareOnSquareIntersectionDashed({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Line_2HorizontalDecreaseCircle({
+export function Line_2HorizontalDecreaseCircle({
   className = 'w-6',
   color = '#000000',
 }: {

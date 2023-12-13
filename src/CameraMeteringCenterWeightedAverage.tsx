@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CameraMeteringCenterWeightedAverage({
+export function CameraMeteringCenterWeightedAverage({
   className = 'w-6',
   color = '#000000',
 }: {

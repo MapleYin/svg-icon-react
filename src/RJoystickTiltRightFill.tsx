@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RJoystickTiltRightFill({
+export function RJoystickTiltRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

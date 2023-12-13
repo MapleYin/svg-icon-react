@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Platter_2FilledIphoneLandscape({
+export function Platter_2FilledIphoneLandscape({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CloudMoonBoltCircleFill({
+export function CloudMoonBoltCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

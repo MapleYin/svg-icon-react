@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SharedWithYouCircleFill({
+export function SharedWithYouCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

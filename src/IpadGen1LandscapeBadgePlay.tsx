@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IpadGen1LandscapeBadgePlay({
+export function IpadGen1LandscapeBadgePlay({
   className = 'w-6',
   color = '#000000',
 }: {

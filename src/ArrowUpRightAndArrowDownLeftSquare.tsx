@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpRightAndArrowDownLeftSquare({
+export function ArrowUpRightAndArrowDownLeftSquare({
   className = 'w-6',
   color = '#000000',
 }: {

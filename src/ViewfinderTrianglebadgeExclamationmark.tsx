@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ViewfinderTrianglebadgeExclamationmark({
+export function ViewfinderTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function KeyboardChevronCompactLeft({
+export function KeyboardChevronCompactLeft({
   className = 'w-6',
   color = '#000000',
 }: {

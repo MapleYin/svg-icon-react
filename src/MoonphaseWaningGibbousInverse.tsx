@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MoonphaseWaningGibbousInverse({
+export function MoonphaseWaningGibbousInverse({
   className = 'w-6',
   color = '#000000',
 }: {

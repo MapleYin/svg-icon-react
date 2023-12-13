@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EvChargerExclamationmark({
+export function EvChargerExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

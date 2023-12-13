@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TeletypeAnswerCircleFill({
+export function TeletypeAnswerCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Square_2Layers_3dBottomFilled({
+export function Square_2Layers_3dBottomFilled({
   className = 'w-6',
   color = '#000000',
 }: {

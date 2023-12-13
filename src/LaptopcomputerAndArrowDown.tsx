@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LaptopcomputerAndArrowDown({
+export function LaptopcomputerAndArrowDown({
   className = 'w-6',
   color = '#000000',
 }: {

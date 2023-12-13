@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IphoneGen3RadiowavesLeftAndRight({
+export function IphoneGen3RadiowavesLeftAndRight({
   className = 'w-6',
   color = '#000000',
 }: {

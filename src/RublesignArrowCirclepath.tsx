@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RublesignArrowCirclepath({
+export function RublesignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

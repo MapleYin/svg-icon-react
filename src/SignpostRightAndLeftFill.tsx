@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SignpostRightAndLeftFill({
+export function SignpostRightAndLeftFill({
   className = 'w-6',
   color = '#000000',
 }: {

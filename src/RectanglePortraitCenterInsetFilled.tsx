@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitCenterInsetFilled({
+export function RectanglePortraitCenterInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

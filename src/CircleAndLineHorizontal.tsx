@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleAndLineHorizontal({
+export function CircleAndLineHorizontal({
   className = 'w-6',
   color = '#000000',
 }: {

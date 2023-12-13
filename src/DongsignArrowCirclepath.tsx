@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DongsignArrowCirclepath({
+export function DongsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

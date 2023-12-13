@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AustralsignArrowCirclepath({
+export function AustralsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

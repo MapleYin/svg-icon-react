@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function KeyboardBadgeEllipsis({
+export function KeyboardBadgeEllipsis({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TextAndCommandMacwindow({
+export function TextAndCommandMacwindow({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSeatedSideWindshieldFrontAndHeatWavesAirDistributionUpperAndLower({
+export function FigureSeatedSideWindshieldFrontAndHeatWavesAirDistributionUpperAndLower({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlagFilledAndFlagCrossed({
+export function FlagFilledAndFlagCrossed({
   className = 'w-6',
   color = '#000000',
 }: {

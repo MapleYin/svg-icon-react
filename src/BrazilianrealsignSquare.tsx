@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BrazilianrealsignSquare({
+export function BrazilianrealsignSquare({
   className = 'w-6',
   color = '#000000',
 }: {

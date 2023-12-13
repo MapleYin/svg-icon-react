@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitTophalfFilled({
+export function RectanglePortraitTophalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

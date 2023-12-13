@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ListBulletRectangleFill({
+export function ListBulletRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

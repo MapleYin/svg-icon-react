@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AustraliandollarsignSquareFill({
+export function AustraliandollarsignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PaddleshifterLeftFill({
+export function PaddleshifterLeftFill({
   className = 'w-6',
   color = '#000000',
 }: {

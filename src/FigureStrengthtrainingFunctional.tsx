@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureStrengthtrainingFunctional({
+export function FigureStrengthtrainingFunctional({
   className = 'w-6',
   color = '#000000',
 }: {

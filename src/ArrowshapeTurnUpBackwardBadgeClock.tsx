@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowshapeTurnUpBackwardBadgeClock({
+export function ArrowshapeTurnUpBackwardBadgeClock({
   className = 'w-6',
   color = '#000000',
 }: {

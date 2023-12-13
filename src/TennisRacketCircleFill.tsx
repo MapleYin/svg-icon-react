@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TennisRacketCircleFill({
+export function TennisRacketCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

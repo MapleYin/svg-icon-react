@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HumidifierAndDropletsFill({
+export function HumidifierAndDropletsFill({
   className = 'w-6',
   color = '#000000',
 }: {

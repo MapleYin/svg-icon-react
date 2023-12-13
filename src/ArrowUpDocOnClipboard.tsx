@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpDocOnClipboard({
+export function ArrowUpDocOnClipboard({
   className = 'w-6',
   color = '#000000',
 }: {

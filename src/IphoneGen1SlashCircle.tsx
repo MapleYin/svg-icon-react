@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IphoneGen1SlashCircle({
+export function IphoneGen1SlashCircle({
   className = 'w-6',
   color = '#000000',
 }: {

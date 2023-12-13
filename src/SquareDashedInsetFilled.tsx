@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareDashedInsetFilled({
+export function SquareDashedInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

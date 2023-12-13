@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AlignHorizontalRightFill({
+export function AlignHorizontalRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

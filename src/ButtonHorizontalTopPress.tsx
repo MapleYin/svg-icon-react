@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonHorizontalTopPress({
+export function ButtonHorizontalTopPress({
   className = 'w-6',
   color = '#000000',
 }: {

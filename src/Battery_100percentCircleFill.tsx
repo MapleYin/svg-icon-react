@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Battery_100percentCircleFill({
+export function Battery_100percentCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

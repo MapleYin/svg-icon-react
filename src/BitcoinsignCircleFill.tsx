@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BitcoinsignCircleFill({
+export function BitcoinsignCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

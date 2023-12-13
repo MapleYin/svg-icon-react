@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WindshieldRearAndWiperIntermittent({
+export function WindshieldRearAndWiperIntermittent({
   className = 'w-6',
   color = '#000000',
 }: {

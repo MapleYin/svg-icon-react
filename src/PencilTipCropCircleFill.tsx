@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PencilTipCropCircleFill({
+export function PencilTipCropCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

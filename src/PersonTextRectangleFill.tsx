@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonTextRectangleFill({
+export function PersonTextRectangleFill({
   className = 'w-6',
   color = '#000000',
 }: {

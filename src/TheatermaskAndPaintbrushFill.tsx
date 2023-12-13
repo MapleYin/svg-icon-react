@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TheatermaskAndPaintbrushFill({
+export function TheatermaskAndPaintbrushFill({
   className = 'w-6',
   color = '#000000',
 }: {

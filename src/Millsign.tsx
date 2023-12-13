@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Millsign({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function Millsign({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 17.3145 27.9725' className={className}>
       <path

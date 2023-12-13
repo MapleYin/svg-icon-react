@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Flask({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function Flask({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20.3647 23.2508' className={className}>
       <path

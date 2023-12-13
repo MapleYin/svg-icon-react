@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PrinterFilledAndPaper({
+export function PrinterFilledAndPaper({
   className = 'w-6',
   color = '#000000',
 }: {

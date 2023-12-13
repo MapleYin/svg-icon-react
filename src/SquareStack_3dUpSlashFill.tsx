@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareStack_3dUpSlashFill({
+export function SquareStack_3dUpSlashFill({
   className = 'w-6',
   color = '#000000',
 }: {

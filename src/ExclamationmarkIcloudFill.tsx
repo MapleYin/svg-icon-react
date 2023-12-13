@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkIcloudFill({
+export function ExclamationmarkIcloudFill({
   className = 'w-6',
   color = '#000000',
 }: {

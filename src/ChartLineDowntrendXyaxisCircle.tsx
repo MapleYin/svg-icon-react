@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChartLineDowntrendXyaxisCircle({
+export function ChartLineDowntrendXyaxisCircle({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function VisionproBadgeExclamationmark({
+export function VisionproBadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

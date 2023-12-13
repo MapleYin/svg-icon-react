@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GraduationcapCircleFill({
+export function GraduationcapCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

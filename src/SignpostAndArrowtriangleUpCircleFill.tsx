@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SignpostAndArrowtriangleUpCircleFill({
+export function SignpostAndArrowtriangleUpCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

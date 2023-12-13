@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowtriangleLeftFill({
+export function ArrowtriangleLeftFill({
   className = 'w-6',
   color = '#000000',
 }: {

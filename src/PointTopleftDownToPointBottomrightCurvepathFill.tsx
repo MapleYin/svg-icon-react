@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PointTopleftDownToPointBottomrightCurvepathFill({
+export function PointTopleftDownToPointBottomrightCurvepathFill({
   className = 'w-6',
   color = '#000000',
 }: {

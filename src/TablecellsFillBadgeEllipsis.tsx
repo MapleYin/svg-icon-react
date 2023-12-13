@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TablecellsFillBadgeEllipsis({
+export function TablecellsFillBadgeEllipsis({
   className = 'w-6',
   color = '#000000',
 }: {

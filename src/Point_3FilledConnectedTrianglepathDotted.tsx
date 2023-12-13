@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Point_3FilledConnectedTrianglepathDotted({
+export function Point_3FilledConnectedTrianglepathDotted({
   className = 'w-6',
   color = '#000000',
 }: {

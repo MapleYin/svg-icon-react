@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CreditcardTrianglebadgeExclamationmarkFill({
+export function CreditcardTrianglebadgeExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

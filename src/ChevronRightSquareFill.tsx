@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronRightSquareFill({
+export function ChevronRightSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

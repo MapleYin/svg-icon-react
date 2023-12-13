@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EvChargerArrowtriangleRight({
+export function EvChargerArrowtriangleRight({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BlindsHorizontalClosed({
+export function BlindsHorizontalClosed({
   className = 'w-6',
   color = '#000000',
 }: {

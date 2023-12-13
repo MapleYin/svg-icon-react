@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarseatRightMassageFill({
+export function CarseatRightMassageFill({
   className = 'w-6',
   color = '#000000',
 }: {

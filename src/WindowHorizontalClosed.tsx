@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WindowHorizontalClosed({
+export function WindowHorizontalClosed({
   className = 'w-6',
   color = '#000000',
 }: {

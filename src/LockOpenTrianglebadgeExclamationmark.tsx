@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LockOpenTrianglebadgeExclamationmark({
+export function LockOpenTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

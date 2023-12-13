@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EnvelopeBadgePersonCropFill({
+export function EnvelopeBadgePersonCropFill({
   className = 'w-6',
   color = '#000000',
 }: {

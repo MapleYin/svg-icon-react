@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function LampCeilingInverse({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function LampCeilingInverse({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 21.6188 26.0615' className={className}>
       <path

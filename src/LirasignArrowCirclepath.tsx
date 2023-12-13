@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LirasignArrowCirclepath({
+export function LirasignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

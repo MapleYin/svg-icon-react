@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AppleLogo({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function AppleLogo({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20.3125 26.3379' className={className}>
       <path

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LineHorizontalStarFillLineHorizontal({
+export function LineHorizontalStarFillLineHorizontal({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CapsulePortraitTophalfFilled({
+export function CapsulePortraitTophalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

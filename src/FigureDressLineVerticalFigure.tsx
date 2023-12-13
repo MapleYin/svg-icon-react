@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureDressLineVerticalFigure({
+export function FigureDressLineVerticalFigure({
   className = 'w-6',
   color = '#000000',
 }: {

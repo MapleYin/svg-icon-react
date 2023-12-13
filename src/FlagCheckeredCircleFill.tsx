@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlagCheckeredCircleFill({
+export function FlagCheckeredCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RighttriangleSplitDiagonalFill({
+export function RighttriangleSplitDiagonalFill({
   className = 'w-6',
   color = '#000000',
 }: {

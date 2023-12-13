@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronBackwardCircle({
+export function ChevronBackwardCircle({
   className = 'w-6',
   color = '#000000',
 }: {

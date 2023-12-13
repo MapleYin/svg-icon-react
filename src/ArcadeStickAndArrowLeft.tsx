@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArcadeStickAndArrowLeft({
+export function ArcadeStickAndArrowLeft({
   className = 'w-6',
   color = '#000000',
 }: {

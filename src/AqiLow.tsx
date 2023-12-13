@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AqiLow({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function AqiLow({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24.6679 28.1324' className={className}>
       <path

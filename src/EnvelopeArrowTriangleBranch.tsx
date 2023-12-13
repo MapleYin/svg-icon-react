@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EnvelopeArrowTriangleBranch({
+export function EnvelopeArrowTriangleBranch({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowTriangle_2Circlepath({
+export function ArrowTriangle_2Circlepath({
   className = 'w-6',
   color = '#000000',
 }: {

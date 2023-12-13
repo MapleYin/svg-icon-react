@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarSideArrowtriangleDown({
+export function CarSideArrowtriangleDown({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DropDegreesignSlashFill({
+export function DropDegreesignSlashFill({
   className = 'w-6',
   color = '#000000',
 }: {

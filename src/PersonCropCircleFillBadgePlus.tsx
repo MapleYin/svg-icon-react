@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonCropCircleFillBadgePlus({
+export function PersonCropCircleFillBadgePlus({
   className = 'w-6',
   color = '#000000',
 }: {

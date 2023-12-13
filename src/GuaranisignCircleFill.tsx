@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function GuaranisignCircleFill({
+export function GuaranisignCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

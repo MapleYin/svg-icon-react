@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonAngledbottomHorizontalLeftFill({
+export function ButtonAngledbottomHorizontalLeftFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CursorarrowAndSquareOnSquareDashed({
+export function CursorarrowAndSquareOnSquareDashed({
   className = 'w-6',
   color = '#000000',
 }: {

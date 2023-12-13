@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TriangleRighthalfFilled({
+export function TriangleRighthalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

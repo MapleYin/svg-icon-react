@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChartBarDocHorizontal({
+export function ChartBarDocHorizontal({
   className = 'w-6',
   color = '#000000',
 }: {

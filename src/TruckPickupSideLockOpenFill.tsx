@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TruckPickupSideLockOpenFill({
+export function TruckPickupSideLockOpenFill({
   className = 'w-6',
   color = '#000000',
 }: {

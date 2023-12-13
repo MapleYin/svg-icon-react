@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MinusPlusBatteryblock({
+export function MinusPlusBatteryblock({
   className = 'w-6',
   color = '#000000',
 }: {

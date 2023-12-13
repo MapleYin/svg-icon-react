@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CloudBoltRainCircleFill({
+export function CloudBoltRainCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

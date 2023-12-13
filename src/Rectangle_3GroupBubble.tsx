@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Rectangle_3GroupBubble({
+export function Rectangle_3GroupBubble({
   className = 'w-6',
   color = '#000000',
 }: {

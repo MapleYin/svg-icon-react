@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareStack_3dDownForwardFill({
+export function SquareStack_3dDownForwardFill({
   className = 'w-6',
   color = '#000000',
 }: {

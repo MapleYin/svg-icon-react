@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleLandscapeRotate({
+export function RectangleLandscapeRotate({
   className = 'w-6',
   color = '#000000',
 }: {

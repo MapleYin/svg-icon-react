@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function VisionproSlashCircleFill({
+export function VisionproSlashCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

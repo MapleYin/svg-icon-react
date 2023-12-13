@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonBadgeShieldCheckmark({
+export function PersonBadgeShieldCheckmark({
   className = 'w-6',
   color = '#000000',
 }: {

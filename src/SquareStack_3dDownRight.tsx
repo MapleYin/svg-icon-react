@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareStack_3dDownRight({
+export function SquareStack_3dDownRight({
   className = 'w-6',
   color = '#000000',
 }: {

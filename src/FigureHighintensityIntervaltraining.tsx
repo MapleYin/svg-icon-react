@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureHighintensityIntervaltraining({
+export function FigureHighintensityIntervaltraining({
   className = 'w-6',
   color = '#000000',
 }: {

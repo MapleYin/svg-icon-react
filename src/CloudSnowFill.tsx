@@ -1,12 +1,6 @@
 import React from 'react'
 
-export default function CloudSnowFill({
-  className = 'w-6',
-  color = '#000000',
-}: {
-  className?: string
-  color?: string
-}) {
+export function CloudSnowFill({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 29.0065 31.8728' className={className}>
       <path

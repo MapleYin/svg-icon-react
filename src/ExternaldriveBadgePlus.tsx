@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExternaldriveBadgePlus({
+export function ExternaldriveBadgePlus({
   className = 'w-6',
   color = '#000000',
 }: {

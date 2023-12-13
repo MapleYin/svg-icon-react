@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SliderHorizontalBelowSquareFilledAndSquare({
+export function SliderHorizontalBelowSquareFilledAndSquare({
   className = 'w-6',
   color = '#000000',
 }: {

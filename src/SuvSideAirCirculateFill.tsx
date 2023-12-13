@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SuvSideAirCirculateFill({
+export function SuvSideAirCirculateFill({
   className = 'w-6',
   color = '#000000',
 }: {

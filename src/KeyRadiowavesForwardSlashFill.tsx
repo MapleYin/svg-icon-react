@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function KeyRadiowavesForwardSlashFill({
+export function KeyRadiowavesForwardSlashFill({
   className = 'w-6',
   color = '#000000',
 }: {

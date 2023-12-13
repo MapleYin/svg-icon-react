@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareStack_3dForwardDottedline({
+export function SquareStack_3dForwardDottedline({
   className = 'w-6',
   color = '#000000',
 }: {

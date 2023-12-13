@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleGrid_3x3CircleFill({
+export function CircleGrid_3x3CircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

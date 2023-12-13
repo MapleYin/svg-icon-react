@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HandPointUpLeftAndTextFill({
+export function HandPointUpLeftAndTextFill({
   className = 'w-6',
   color = '#000000',
 }: {

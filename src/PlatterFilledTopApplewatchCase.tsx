@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PlatterFilledTopApplewatchCase({
+export function PlatterFilledTopApplewatchCase({
   className = 'w-6',
   color = '#000000',
 }: {

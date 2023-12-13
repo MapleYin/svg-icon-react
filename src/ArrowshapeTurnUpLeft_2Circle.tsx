@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowshapeTurnUpLeft_2Circle({
+export function ArrowshapeTurnUpLeft_2Circle({
   className = 'w-6',
   color = '#000000',
 }: {

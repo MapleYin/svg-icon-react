@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitOnRectanglePortrait({
+export function RectanglePortraitOnRectanglePortrait({
   className = 'w-6',
   color = '#000000',
 }: {

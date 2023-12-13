@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CloudDrizzleCircleFill({
+export function CloudDrizzleCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

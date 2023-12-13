@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleBadgePersonCrop({
+export function RectangleBadgePersonCrop({
   className = 'w-6',
   color = '#000000',
 }: {

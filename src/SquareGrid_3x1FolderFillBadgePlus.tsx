@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareGrid_3x1FolderFillBadgePlus({
+export function SquareGrid_3x1FolderFillBadgePlus({
   className = 'w-6',
   color = '#000000',
 }: {

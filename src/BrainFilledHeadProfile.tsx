@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BrainFilledHeadProfile({
+export function BrainFilledHeadProfile({
   className = 'w-6',
   color = '#000000',
 }: {

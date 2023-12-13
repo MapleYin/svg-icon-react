@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LivephotoBadgeAutomatic({
+export function LivephotoBadgeAutomatic({
   className = 'w-6',
   color = '#000000',
 }: {

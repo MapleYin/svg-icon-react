@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PolishzlotysignSquareFill({
+export function PolishzlotysignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

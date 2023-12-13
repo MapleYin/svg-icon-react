@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TruckPickupSideAirCirculate({
+export function TruckPickupSideAirCirculate({
   className = 'w-6',
   color = '#000000',
 }: {

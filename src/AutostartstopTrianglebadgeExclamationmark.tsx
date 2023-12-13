@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AutostartstopTrianglebadgeExclamationmark({
+export function AutostartstopTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

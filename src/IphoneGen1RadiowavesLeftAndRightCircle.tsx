@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IphoneGen1RadiowavesLeftAndRightCircle({
+export function IphoneGen1RadiowavesLeftAndRightCircle({
   className = 'w-6',
   color = '#000000',
 }: {

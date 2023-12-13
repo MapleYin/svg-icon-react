@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CedisignArrowCirclepath({
+export function CedisignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

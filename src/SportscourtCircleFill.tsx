@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SportscourtCircleFill({
+export function SportscourtCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

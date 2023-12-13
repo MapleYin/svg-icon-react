@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonVerticalLeftPress({
+export function ButtonVerticalLeftPress({
   className = 'w-6',
   color = '#000000',
 }: {

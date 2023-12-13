@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ThermometerMediumSlash({
+export function ThermometerMediumSlash({
   className = 'w-6',
   color = '#000000',
 }: {

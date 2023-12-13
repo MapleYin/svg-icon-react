@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Stop({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
+export function Stop({ className = 'w-6', color = '#000000' }: { className?: string; color?: string }) {
   return (
     <svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 19.406 19.0649' className={className}>
       <path

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EntryLeverKeypadTrianglebadgeExclamationmark({
+export function EntryLeverKeypadTrianglebadgeExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Person_2BadgeGearshape({
+export function Person_2BadgeGearshape({
   className = 'w-6',
   color = '#000000',
 }: {

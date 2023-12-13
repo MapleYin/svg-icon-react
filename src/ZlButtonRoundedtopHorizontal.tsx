@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ZlButtonRoundedtopHorizontal({
+export function ZlButtonRoundedtopHorizontal({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DistributeVerticalCenterFill({
+export function DistributeVerticalCenterFill({
   className = 'w-6',
   color = '#000000',
 }: {

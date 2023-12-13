@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUturnRightCircleFill({
+export function ArrowUturnRightCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

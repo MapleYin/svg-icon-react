@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleOnRectangleBadgeGearshape({
+export function RectangleOnRectangleBadgeGearshape({
   className = 'w-6',
   color = '#000000',
 }: {

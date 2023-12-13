@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkOctagonFill({
+export function ExclamationmarkOctagonFill({
   className = 'w-6',
   color = '#000000',
 }: {

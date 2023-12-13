@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FolderFillBadgeGearshape({
+export function FolderFillBadgeGearshape({
   className = 'w-6',
   color = '#000000',
 }: {

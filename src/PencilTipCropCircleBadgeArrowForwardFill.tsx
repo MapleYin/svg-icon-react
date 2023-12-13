@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PencilTipCropCircleBadgeArrowForwardFill({
+export function PencilTipCropCircleBadgeArrowForwardFill({
   className = 'w-6',
   color = '#000000',
 }: {

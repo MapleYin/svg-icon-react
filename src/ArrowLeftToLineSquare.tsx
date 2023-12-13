@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowLeftToLineSquare({
+export function ArrowLeftToLineSquare({
   className = 'w-6',
   color = '#000000',
 }: {

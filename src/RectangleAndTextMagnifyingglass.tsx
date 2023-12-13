@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleAndTextMagnifyingglass({
+export function RectangleAndTextMagnifyingglass({
   className = 'w-6',
   color = '#000000',
 }: {

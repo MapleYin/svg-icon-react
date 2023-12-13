@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureAustralianFootball({
+export function FigureAustralianFootball({
   className = 'w-6',
   color = '#000000',
 }: {

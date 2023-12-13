@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowtriangleBackward({
+export function ArrowtriangleBackward({
   className = 'w-6',
   color = '#000000',
 }: {

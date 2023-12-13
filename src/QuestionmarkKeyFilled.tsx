@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function QuestionmarkKeyFilled({
+export function QuestionmarkKeyFilled({
   className = 'w-6',
   color = '#000000',
 }: {

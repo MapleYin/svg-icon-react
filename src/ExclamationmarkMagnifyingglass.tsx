@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExclamationmarkMagnifyingglass({
+export function ExclamationmarkMagnifyingglass({
   className = 'w-6',
   color = '#000000',
 }: {

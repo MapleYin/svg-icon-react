@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BuildingColumnsCircleFill({
+export function BuildingColumnsCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

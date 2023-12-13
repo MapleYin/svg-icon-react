@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarWindowRightBadgeXmark({
+export function CarWindowRightBadgeXmark({
   className = 'w-6',
   color = '#000000',
 }: {

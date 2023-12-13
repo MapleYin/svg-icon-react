@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectanglePortraitToptrailingInsetFilled({
+export function RectanglePortraitToptrailingInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleArrowtriangle_2Inward({
+export function RectangleArrowtriangle_2Inward({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PoweroutletTypeGSquare({
+export function PoweroutletTypeGSquare({
   className = 'w-6',
   color = '#000000',
 }: {

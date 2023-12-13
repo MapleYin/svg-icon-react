@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SparkleMagnifyingglass({
+export function SparkleMagnifyingglass({
   className = 'w-6',
   color = '#000000',
 }: {

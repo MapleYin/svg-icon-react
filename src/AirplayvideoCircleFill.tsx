@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AirplayvideoCircleFill({
+export function AirplayvideoCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowshapeZigzagForwardFill({
+export function ArrowshapeZigzagForwardFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleAndPencilAndEllipsis({
+export function RectangleAndPencilAndEllipsis({
   className = 'w-6',
   color = '#000000',
 }: {

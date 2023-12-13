@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ListBulletClipboardFill({
+export function ListBulletClipboardFill({
   className = 'w-6',
   color = '#000000',
 }: {

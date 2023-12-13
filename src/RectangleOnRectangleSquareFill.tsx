@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleOnRectangleSquareFill({
+export function RectangleOnRectangleSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

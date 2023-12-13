@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WaveformAndPersonFilled({
+export function WaveformAndPersonFilled({
   className = 'w-6',
   color = '#000000',
 }: {

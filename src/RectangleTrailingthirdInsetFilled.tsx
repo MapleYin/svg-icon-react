@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleTrailingthirdInsetFilled({
+export function RectangleTrailingthirdInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

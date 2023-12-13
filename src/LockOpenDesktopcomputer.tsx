@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LockOpenDesktopcomputer({
+export function LockOpenDesktopcomputer({
   className = 'w-6',
   color = '#000000',
 }: {

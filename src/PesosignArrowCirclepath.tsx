@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PesosignArrowCirclepath({
+export function PesosignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

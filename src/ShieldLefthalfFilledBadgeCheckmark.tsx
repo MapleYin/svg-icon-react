@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ShieldLefthalfFilledBadgeCheckmark({
+export function ShieldLefthalfFilledBadgeCheckmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PlayRectangleOnRectangleCircleFill({
+export function PlayRectangleOnRectangleCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

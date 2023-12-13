@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function QuestionmarkBubbleFill({
+export function QuestionmarkBubbleFill({
   className = 'w-6',
   color = '#000000',
 }: {

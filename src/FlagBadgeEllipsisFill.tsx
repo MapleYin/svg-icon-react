@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlagBadgeEllipsisFill({
+export function FlagBadgeEllipsisFill({
   className = 'w-6',
   color = '#000000',
 }: {

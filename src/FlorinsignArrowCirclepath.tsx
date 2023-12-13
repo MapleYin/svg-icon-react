@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FlorinsignArrowCirclepath({
+export function FlorinsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SliderHorizontalBelowRectangle({
+export function SliderHorizontalBelowRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

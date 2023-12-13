@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SmallcircleFilledCircle({
+export function SmallcircleFilledCircle({
   className = 'w-6',
   color = '#000000',
 }: {

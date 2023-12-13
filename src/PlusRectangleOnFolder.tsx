@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PlusRectangleOnFolder({
+export function PlusRectangleOnFolder({
   className = 'w-6',
   color = '#000000',
 }: {

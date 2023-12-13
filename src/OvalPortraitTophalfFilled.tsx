@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function OvalPortraitTophalfFilled({
+export function OvalPortraitTophalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

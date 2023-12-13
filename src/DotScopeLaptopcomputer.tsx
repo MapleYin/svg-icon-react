@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function DotScopeLaptopcomputer({
+export function DotScopeLaptopcomputer({
   className = 'w-6',
   color = '#000000',
 }: {

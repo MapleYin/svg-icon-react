@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarSideAndExclamationmarkFill({
+export function CarSideAndExclamationmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

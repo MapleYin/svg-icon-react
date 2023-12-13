@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BeatsFitproChargingcaseFill({
+export function BeatsFitproChargingcaseFill({
   className = 'w-6',
   color = '#000000',
 }: {

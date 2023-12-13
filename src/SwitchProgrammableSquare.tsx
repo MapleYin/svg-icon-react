@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SwitchProgrammableSquare({
+export function SwitchProgrammableSquare({
   className = 'w-6',
   color = '#000000',
 }: {

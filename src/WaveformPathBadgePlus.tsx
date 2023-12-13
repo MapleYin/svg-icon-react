@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WaveformPathBadgePlus({
+export function WaveformPathBadgePlus({
   className = 'w-6',
   color = '#000000',
 }: {

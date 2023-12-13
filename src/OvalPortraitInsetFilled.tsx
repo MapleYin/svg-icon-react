@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function OvalPortraitInsetFilled({
+export function OvalPortraitInsetFilled({
   className = 'w-6',
   color = '#000000',
 }: {

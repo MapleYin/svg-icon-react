@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function KeyboardChevronCompactDownFill({
+export function KeyboardChevronCompactDownFill({
   className = 'w-6',
   color = '#000000',
 }: {

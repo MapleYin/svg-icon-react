@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HearingdeviceAndSignalMeterFill({
+export function HearingdeviceAndSignalMeterFill({
   className = 'w-6',
   color = '#000000',
 }: {

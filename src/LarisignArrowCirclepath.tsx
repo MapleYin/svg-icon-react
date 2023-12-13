@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function LarisignArrowCirclepath({
+export function LarisignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

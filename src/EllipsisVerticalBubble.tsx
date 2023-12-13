@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function EllipsisVerticalBubble({
+export function EllipsisVerticalBubble({
   className = 'w-6',
   color = '#000000',
 }: {

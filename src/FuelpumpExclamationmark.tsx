@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FuelpumpExclamationmark({
+export function FuelpumpExclamationmark({
   className = 'w-6',
   color = '#000000',
 }: {

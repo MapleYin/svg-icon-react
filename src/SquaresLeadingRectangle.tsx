@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquaresLeadingRectangle({
+export function SquaresLeadingRectangle({
   className = 'w-6',
   color = '#000000',
 }: {

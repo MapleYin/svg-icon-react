@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ExternaldriveBadgeCheckmark({
+export function ExternaldriveBadgeCheckmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AntennaRadiowavesLeftAndRightSlash({
+export function AntennaRadiowavesLeftAndRightSlash({
   className = 'w-6',
   color = '#000000',
 }: {

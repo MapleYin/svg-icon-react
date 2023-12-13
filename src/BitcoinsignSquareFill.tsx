@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BitcoinsignSquareFill({
+export function BitcoinsignSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MenubarDockRectangleBadgeRecord({
+export function MenubarDockRectangleBadgeRecord({
   className = 'w-6',
   color = '#000000',
 }: {

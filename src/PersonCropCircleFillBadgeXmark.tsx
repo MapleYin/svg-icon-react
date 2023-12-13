@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonCropCircleFillBadgeXmark({
+export function PersonCropCircleFillBadgeXmark({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUturnBackwardCircleBadgeEllipsis({
+export function ArrowUturnBackwardCircleBadgeEllipsis({
   className = 'w-6',
   color = '#000000',
 }: {

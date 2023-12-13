@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CarTopRadiowavesFront({
+export function CarTopRadiowavesFront({
   className = 'w-6',
   color = '#000000',
 }: {

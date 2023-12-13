@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function KipsignArrowCirclepath({
+export function KipsignArrowCirclepath({
   className = 'w-6',
   color = '#000000',
 }: {

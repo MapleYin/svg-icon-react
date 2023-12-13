@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MappinSlashCircleFill({
+export function MappinSlashCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PersonCropRectangleBadgePlusFill({
+export function PersonCropRectangleBadgePlusFill({
   className = 'w-6',
   color = '#000000',
 }: {

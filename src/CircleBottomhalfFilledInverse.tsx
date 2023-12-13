@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CircleBottomhalfFilledInverse({
+export function CircleBottomhalfFilledInverse({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function HourglassTophalfFilled({
+export function HourglassTophalfFilled({
   className = 'w-6',
   color = '#000000',
 }: {

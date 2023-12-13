@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function RectangleBadgeCheckmark({
+export function RectangleBadgeCheckmark({
   className = 'w-6',
   color = '#000000',
 }: {

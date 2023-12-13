@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ButtonAngledtopVerticalRightFill({
+export function ButtonAngledtopVerticalRightFill({
   className = 'w-6',
   color = '#000000',
 }: {

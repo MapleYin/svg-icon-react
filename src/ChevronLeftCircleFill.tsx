@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ChevronLeftCircleFill({
+export function ChevronLeftCircleFill({
   className = 'w-6',
   color = '#000000',
 }: {

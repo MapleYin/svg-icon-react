@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CheckmarkCircleBadgeXmarkFill({
+export function CheckmarkCircleBadgeXmarkFill({
   className = 'w-6',
   color = '#000000',
 }: {

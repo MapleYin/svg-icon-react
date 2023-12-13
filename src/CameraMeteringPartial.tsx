@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CameraMeteringPartial({
+export function CameraMeteringPartial({
   className = 'w-6',
   color = '#000000',
 }: {

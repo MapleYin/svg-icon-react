@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ArrowUpAndDownSquareFill({
+export function ArrowUpAndDownSquareFill({
   className = 'w-6',
   color = '#000000',
 }: {

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SquareOnSquareSquareshapeControlhandles({
+export function SquareOnSquareSquareshapeControlhandles({
   className = 'w-6',
   color = '#000000',
 }: {

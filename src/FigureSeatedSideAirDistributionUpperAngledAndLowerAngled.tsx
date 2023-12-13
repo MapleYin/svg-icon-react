@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function FigureSeatedSideAirDistributionUpperAngledAndLowerAngled({
+export function FigureSeatedSideAirDistributionUpperAngledAndLowerAngled({
   className = 'w-6',
   color = '#000000',
 }: {
